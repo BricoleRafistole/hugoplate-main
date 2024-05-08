@@ -1,18 +1,6 @@
 // Add your own custom styles here
-// .dark .content img[mode=light] {
-//     display: none
-// }
 
-// .content img[mode=dark] {
-//     display: none
-// }
-
-// .dark .content img[mode=dark] {
-//     display: inline-block
-// }
-
-// Add your own custom styles here
-//commande yann fonctionne
+//commande yann fonctionne pour images ajoutées en Markdown
 .dark .content img[src$='#light'] {
     display: none
 }
@@ -25,6 +13,7 @@
     display: inline-block
 }
 
+//commande yann fonctionne pour images ajoutées en Html
 .dark .content .light img {
     display: none
 }
@@ -37,8 +26,9 @@
     display: inline-block
 }
 
+//commande yann fonctionne pour aligner picto
 .inline-image img {
-    width  : 100px;
+    width  : 150px;
 }
 
 .inline-image {
