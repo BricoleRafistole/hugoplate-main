@@ -7,7 +7,7 @@ type: ""
 layout: "_index"
 ---
 
-{{< slider dir="images/gallery" class="max-w-[800px] ml-0" height="1500" width="1500" webp="true" command="Fit" option="" zoomable="false" >}}
+{{< slider dir="images/gallery" class="max-w-[800px] ml-0" height="1500" width="1500" webp="true" command="Fit" option="" zoomable="true" >}}
 
 
 <hr>
@@ -36,3 +36,12 @@ Réparations et restaurations en tout genre
 {.dark .inline-image}  
 [![Autre](picto/picto_hifi_son.jpg)](activite/autre)
 {.light .inline-image}
+
+<hr>
+
+# Certifications
+
+[![Repar'acteur](logo_labels/Repar-acteurs_logo_vertical_baseline_vert-bleu.png)]([activite/autre](https://www.artisanat.fr/annuaire-repar-acteurs))
+{.logo_certif}
+
+{{< button label="En savoir plus" link="/certifications" style="solid" >}}
