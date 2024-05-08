@@ -1,5 +1,8 @@
 ---
-title: "Blog Posts"
+title: "Autre"
 meta_title: ""
 description: "this is meta description"
+draft: false
+type: "_default"
+layout: "single"
 ---

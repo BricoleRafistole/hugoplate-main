@@ -1,0 +1,99 @@
+############# French navigation ##############
+
+# main menu
+[[main]]
+name = "Accueil"
+pageRef = "/"
+weight = 1
+
+[[main]]
+name = "Activité"
+pageRef = "/activite"
+weight = 2
+
+    [[main]]
+    parent = "Activité"
+    name = "Hifi & son"
+    pageRef = "/activite/hifi_son"
+    weight = 10
+
+     [[main]]
+    parent = "Activité"
+    name = "Electromenager"
+    pageRef = "/activite/electromenager"
+    weight = 20
+
+    [[main]]
+    parent = "Activité"
+    name = "Carte électronique"
+    pageRef = "/activite/carte_electronique"
+    weight = 30
+
+    [[main]]
+    parent = "Activité"
+    name = "Outillage"
+    pageRef = "/activite/outillage"
+    weight = 40
+
+    [[main]]
+    parent = "Activité"
+    name = "Autre"
+    pageRef = "/activite/autre"
+    weight = 50
+
+[[main]]
+name = "A propos"
+pageRef = "/a_propos"
+weight = 3
+
+[[main]]
+name = "Contact"
+pageRef = "/contact"
+weight = 4
+
+# footer menu
+
+[[footer]]
+name = "Accueil"
+pageRef = "/"
+weight = 1
+
+[[footer]]
+name = "Activité"
+pageRef = "/activite"
+weight = 2
+
+[[footer]]
+name = "A propos"
+pageRef = "/a_propos"
+weight = 3
+
+[[footer]]
+name = "Contact"
+pageRef = "/contact"
+weight = 4
+
+[[footer]]
+name = "Certifications"
+pageRef = "/certifications"
+weight = 5
+
+[[footer]]
+name = "Professionels"
+pageRef = "/professionnels"
+weight = 6
+
+[[footer]]
+name = "Politique de confidentialité"
+pageRef = "/politique_confidentialite"
+weight = 7
+
+[[footer]]
+name = "Conditions Générales de Vente"
+pageRef = "/cgv"
+weight = 8
+
+[[footer]]
+name = "Mentions légales"
+pageRef = "/mentions_legales"
+weight = 9

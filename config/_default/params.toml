@@ -1,17 +1,18 @@
 #################### default parameters ################################
+
 # favicon module: https://github.com/gethugothemes/hugo-modules/tree/master/images#favicon-implementation
 favicon = "images/favicon.png"
 # logo module: https://github.com/gethugothemes/hugo-modules/tree/master/images#logo-implementation
-logo = "images/logo.png"
-logo_darkmode = "images/logo-darkmode.png"
+logo = "images/BR_logo.png"
+logo_darkmode = "images/BR_logo_darkmode.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
-logo_width = "160px"
-logo_height = "32px"
+logo_width = "200px"
+#logo_height = "32px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "Hugoplate"
+logo_text = "Bricole & Rafistole"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
@@ -38,7 +39,7 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "get a quote"
+label = "Besoin d'une réparation ?"
 link = "contact"
 
 # search
@@ -99,3 +100,4 @@ enable = false
 # mailchimp subsciption
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
+

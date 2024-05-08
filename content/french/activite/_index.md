@@ -1,12 +1,26 @@
 ---
-title: "Elements"
+title: "Activité"
 # meta title
 meta_title: ""
 # meta description
 description: "This is meta description"
 # save as draft
 draft: false
+type: "_default"
+layout: "single"
 ---
+<!-- {{< image src="picto_son_hifi.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid light" title="image title"  webp="false">}}
+{{< image src="picto_son_hifi_darkmode.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid dark" title="image title"  webp="false">}}  -->
+
+[![Title](picto_son_hifi_darkmode.png)](autre)
+{.dark .inline-image}
+[![Title](picto_son_hifi_darkmode.png)](electromenager)
+{.dark .inline-image}
+![Title](picto_son_hifi.jpg)
+{.light .inline-image}
+![Title](picto_son_hifi.jpg)
+{.light .inline-image}
+
 
 {{< toc >}}
 
@@ -121,9 +135,9 @@ This is a simple warning.
 {{< tabs >}}
 {{< tab "Tab 1" >}}
 
-#### Did you come here for something in particular?
+#### Hey There, I am a tab
 
-Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once. We have a saboteur aboard. We know you’re dealing in stolen ore. But I wanna talk about the assassination attempt on Lieutenant Worf.
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 {{< /tab >}}
 

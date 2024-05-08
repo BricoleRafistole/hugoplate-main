@@ -1,16 +1,18 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "/"
+baseURL = "https://bricole-rafistole.fr/"
 # Title of your website (required).
-title = "Hugoplate"
+title = "Bricole & Rafistole"
 # Your theme name
 theme = "hugoplate"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
-timeZone = "America/New_York"
+timeZone = "Europe/Paris"
 # post pagination
 paginate = 2 # see https://gohugo.io/extras/pagination/
 # post excerpt
 summaryLength = 10 # see https://gohugo.io/content-management/excerpts/
+# default language
+defaultContentLanguage = 'fr'
 # disable language
 disableLanguages = [
 ] # example: ["fr"] for disable french language. see https://gohugo.io/content-management/multilingual/
@@ -168,3 +170,6 @@ lazy = true
 [[params.plugins.js]]
 link = "plugins/youtube-lite.js"
 lazy = true
+[markup.goldmark.parser.attribute]
+block = true
+title = true

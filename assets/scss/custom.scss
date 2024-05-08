@@ -1,1 +1,46 @@
 // Add your own custom styles here
+// .dark .content img[mode=light] {
+//     display: none
+// }
+
+// .content img[mode=dark] {
+//     display: none
+// }
+
+// .dark .content img[mode=dark] {
+//     display: inline-block
+// }
+
+// Add your own custom styles here
+//commande yann fonctionne
+.dark .content img[src$='#light'] {
+    display: none
+}
+
+.content img[src$='#dark'] {
+    display: none
+}
+
+.dark .content img[src$='#dark'] {
+    display: inline-block
+}
+
+.dark .content .light img {
+    display: none
+}
+
+.content .dark img {
+    display: none
+}
+
+.dark .content .dark img {
+    display: inline-block
+}
+
+.inline-image img {
+    width  : 100px;
+}
+
+.inline-image {
+    display:inline;
+}
