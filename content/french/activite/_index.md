@@ -9,28 +9,28 @@ draft: false
 type: "_default"
 layout: "single"
 ---
-<!-- {{< image src="picto_son_hifi.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid light" title="image title"  webp="false">}}
+<!-- {{< image src="picto_hifi_son.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid light" title="image title"  webp="false">}}
   
-{{< image src="picto_son_hifi_darkmode.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid dark" title="image title"  webp="false">}}  -->
+{{< image src="picto_hifi_son_darkmode.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid dark" title="image title"  webp="false">}} -->
 
 [![Hifi / Son](../picto/picto_hifi_son_darkmode.png)](hifi_son)
-{.dark .inline-image}  
+{.dark .inline-image}
 [![Hifi / Son](../picto/picto_hifi_son.jpg)](hifi_son)
-{.light .inline-image}  
+{.light .inline-image}
 [![Electroménager](../picto/picto_hifi_son_darkmode.png)](electromenager)
-{.dark .inline-image}  
+{.dark .inline-image}
 [![Electroménager](../picto/picto_hifi_son.jpg)](electromenager)
-{.light .inline-image}  
+{.light .inline-image}
 [![Carte Electronique](../picto/picto_hifi_son_darkmode.png)](carte_electronique)
-{.dark .inline-image}  
+{.dark .inline-image}
 [![Carte Electronique](../picto/picto_hifi_son.jpg)](carte_electronique)
-{.light .inline-image}  
+{.light .inline-image}
 [![Outillage](../picto/picto_hifi_son_darkmode.png)](outillage)
-{.dark .inline-image}  
+{.dark .inline-image}
 [![Outillage](../picto/picto_hifi_son.jpg)](outillage)
-{.light .inline-image}  
+{.light .inline-image}
 [![Autre](../picto/picto_hifi_son_darkmode.png)](autre)
-{.dark .inline-image}  
+{.dark .inline-image}
 [![Autre](../picto/picto_hifi_son.jpg)](autre)
 {.light .inline-image}
 

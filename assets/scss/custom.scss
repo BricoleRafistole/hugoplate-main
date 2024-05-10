@@ -1,6 +1,6 @@
 // Add your own custom styles here
 
-//commande yann fonctionne pour images ajoutées en Markdown
+//commande yann fonctionne pour images ajoutées en html
 .dark .content img[src$='#light'] {
     display: none
 }
@@ -13,7 +13,7 @@
     display: inline-block
 }
 
-//commande yann fonctionne pour images ajoutées en Html
+//commande yann fonctionne pour images ajoutées en .Md
 .dark .content .light img {
     display: none
 }
@@ -28,13 +28,29 @@
 
 //commande yann fonctionne pour aligner picto
 .inline-image img {
-    width  : 150px;
+    max-width: 160px;
+    min-width: 100px;
+    width  : 16%;
 }
 
 .inline-image {
     display:inline;
+    opacity: 0.7;
 }
 
-.logo_certif{
-    width  : 400px;
+.inline-image:hover {
+            opacity: 1;
+    }
+
+
+
+.principale {
+    opacity: 1;
+}
+
+
+.logo_certif {
+    max-width: 500px;
+    min-width: 180px;
+    width  : 40%;
 }
