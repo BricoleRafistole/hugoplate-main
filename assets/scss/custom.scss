@@ -28,14 +28,15 @@
 
 //commande yann fonctionne pour aligner picto
 .inline-image img {
-    max-width: 160px;
-    min-width: 100px;
+    margin: 3%;
+    max-width: 152px;
+    min-width: 88px;
     width  : 16%;
 }
 
 .inline-image {
     display:inline;
-    opacity: 0.7;
+    opacity: 0.8;
 }
 
 .inline-image:hover {
@@ -53,4 +54,10 @@
     max-width: 500px;
     min-width: 180px;
     width  : 40%;
+}
+
+.tableau
+{
+    border-color: red;
+    background-color: transparent;
 }

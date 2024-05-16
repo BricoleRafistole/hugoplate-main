@@ -7,36 +7,36 @@ pageRef = "/"
 weight = 1
 
 [[main]]
-name = "Activité"
+name = "Activités"
 pageRef = "/activite"
 weight = 2
 
     [[main]]
-    parent = "Activité"
+    parent = "Activités"
     name = "Hifi & son"
     pageRef = "/activite/hifi_son"
     weight = 10
 
      [[main]]
-    parent = "Activité"
+    parent = "Activités"
     name = "Electromenager"
     pageRef = "/activite/electromenager"
     weight = 20
 
     [[main]]
-    parent = "Activité"
+    parent = "Activités"
     name = "Carte électronique"
     pageRef = "/activite/carte_electronique"
     weight = 30
 
     [[main]]
-    parent = "Activité"
+    parent = "Activités"
     name = "Outillage"
     pageRef = "/activite/outillage"
     weight = 40
 
     [[main]]
-    parent = "Activité"
+    parent = "Activités"
     name = "Autre"
     pageRef = "/activite/autre"
     weight = 50

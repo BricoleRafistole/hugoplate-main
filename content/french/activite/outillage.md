@@ -9,21 +9,21 @@ layout: "single"
 
 [![Hifi / Son](../../picto/picto_hifi_son_darkmode.png)](../hifi_son)
 {.dark .inline-image}
-[![Hifi / Son](../../picto/picto_hifi_son.jpg)](../hifi_son)
+[![Hifi / Son](../../picto/picto_hifi_son.png)](../hifi_son)
 {.light .inline-image}
 [![Electroménager](../../picto/picto_hifi_son_darkmode.png)](../electromenager)
 {.dark .inline-image}
-[![Electroménager](../../picto/picto_hifi_son.jpg)](../electromenager)
+[![Electroménager](../../picto/picto_electromenager.png)](../electromenager)
 {.light .inline-image}
 [![Carte Electronique](../../picto/picto_hifi_son_darkmode.png)](../carte_electronique)
 {.dark .inline-image}
-[![Carte Electronique](../../picto/picto_hifi_son.jpg)](../carte_electronique)
+[![Carte Electronique](../../picto/picto_carte_electronique.png)](../carte_electronique)
 {.light .inline-image}
 [![Outillage](../../picto/picto_hifi_son_darkmode.png)](../outillage)
 {.dark .inline-image  .principale}
-[![Outillage](../../picto/picto_hifi_son.jpg)](../outillage)
+[![Outillage](../../picto/picto_outillage.png)](../outillage)
 {.light .inline-image  .principale}
 [![Autre](../../picto/picto_hifi_son_darkmode.png)](../autre)
 {.dark .inline-image}
-[![Autre](../../picto/picto_hifi_son.jpg)](../autre)
+[![Autre](../../picto/picto_autre.png)](../autre)
 {.light .inline-image}
