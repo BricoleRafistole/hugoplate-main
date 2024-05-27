@@ -9,30 +9,49 @@ draft: false
 type: "_default"
 layout: "single"
 ---
-<!-- {{< image src="picto_hifi_son.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid light" title="image title"  webp="false">}}
-  
-{{< image src="picto_hifi_son_darkmode.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid dark" title="image title"  webp="false">}} -->
 
-[![Hifi / Son](../picto/picto_hifi_son_darkmode.png)](hifi_son)
-{.dark .inline-image}
-[![Hifi / Son](../picto/picto_hifi_son.png)](hifi_son)
-{.light .inline-image}
-[![Electroménager](../picto/picto_hifi_son_darkmode.png)](electromenager)
-{.dark .inline-image}
-[![Electroménager](../picto/picto_electromenager.png)](electromenager)
-{.light .inline-image}
-[![Carte Electronique](../picto/picto_hifi_son_darkmode.png)](carte_electronique)
-{.dark .inline-image}
-[![Carte Electronique](../picto/picto_carte_electronique.png)](carte_electronique)
-{.light .inline-image}
-[![Outillage](../picto/picto_hifi_son_darkmode.png)](outillage)
-{.dark .inline-image}
-[![Outillage](../picto/picto_outillage.png)](outillage)
-{.light .inline-image}
-[![Autre](../picto/picto_hifi_son_darkmode.png)](autre)
-{.dark .inline-image}
-[![Autre](../picto/picto_autre.png)](autre)
-{.light .inline-image}
+<div class="container_picto">
+    <a href="hifi_son">
+        <figure>
+            <image src="../picto/picto_hifi_son.svg" alt="Pictogramme pour l'activité Hifi & Son" class="pictos">
+            <figcaption>
+                <p class="legende">Hifi & Son</p>
+            </figcaption>
+        </figure>
+    </a>
+    <a href="electromenager">
+        <figure>
+            <image src="../picto/picto_electromenager.svg" alt="Pictogramme pour l'activité Electromenager" class="pictos">
+            <figcaption>
+                <p class="legende">Electromenager</p>
+            </figcaption>
+        </figure>
+    </a>
+    <a href="carte_electronique">
+        <figure>
+            <image src="../picto/picto_carte_electronique.svg" alt="Pictogramme pour l'activité Carte électronique" class="pictos">
+            <figcaption>
+                <p class="legende">Carte électronique</p>
+            </figcaption>
+        </figure>
+    </a>
+    <a href="outillage">
+        <figure>
+            <image src="../picto/picto_outillage.svg" alt="Pictogramme pour l'activité Outillage" class="pictos">
+            <figcaption>
+                <p class="legende">Outillage</p>
+            </figcaption>
+        </figure>
+    </a>
+    <a href="autre">
+        <figure>
+            <image src="../picto/picto_autre.svg" alt="Pictogramme pour l'activité Autre" class="pictos">
+            <figcaption>
+                <p class="legende">Autre</p>
+            </figcaption>
+        </figure>
+    </a>
+</div>
 
 
 {{< toc >}}

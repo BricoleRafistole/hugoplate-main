@@ -52,7 +52,7 @@
   @apply rounded-lg #{!important};
 }
 
-// slider
-// .gallery-slider {
-//   @apply ml-0 #{!important};
-// }
+//slider
+.gallery-slider {
+  @apply ml-0;
+}

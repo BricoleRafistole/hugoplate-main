@@ -1,7 +1,7 @@
 #################### default parameters ################################
 
 # favicon module: https://github.com/gethugothemes/hugo-modules/tree/master/images#favicon-implementation
-favicon = "images/favicon.jpg"
+favicon = "images/favicon_2.jpg"
 # logo module: https://github.com/gethugothemes/hugo-modules/tree/master/images#logo-implementation
 logo = "images/BR_logo.png"
 logo_darkmode = "images/BR_logo_darkmode.png"
@@ -28,7 +28,7 @@ google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
 # copyright
-copyright = "Conçu par Sophie GAUDILLAT & Developpé par Valentin SYLLA"
+copyright = "Design par Sophie GAUDILLAT"
 
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
@@ -77,8 +77,8 @@ mastodon = "" # Your verification code
 [cookies]
 enable = false
 expire_days = 60
-content = "This site uses cookies. By continuing to use this website, you agree to their use."
-button = "I Accept"
+content = "Ce site utilise des cookies. En continuant d'utiliser ce site, vous acceptez leur utilisation."
+button = "J'accepte"
 
 ######################## sidebar widgets #########################
 [widgets]
