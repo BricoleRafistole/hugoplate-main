@@ -152,9 +152,9 @@ hifison -->
     <a href="https://www.artisanat.fr/annuaire-repar-acteurs">
         <image src="logo_labels/Repar-acteurs_logo_vertical_baseline_vert-bleu.png" alt="Logo du label Repar'acteur" class="logo_certif" >
     </a>
-    <a>
+    <!-- <a >
         <image src="" alt="" class="logo_certif">
-    </a>
+    </a> -->
 </div>
 
 
