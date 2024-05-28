@@ -37,7 +37,7 @@ layout: "single"
     </a>
     <a href="outillage">
         <figure>
-            <image src="../picto/picto_outillage.svg" alt="Pictogramme pour l'activité Outillage" class="pictos">
+            <image src="../picto/picto_outillage.png" alt="Pictogramme pour l'activité Outillage" class="pictos">
             <figcaption>
                 <p class="legende">Outillage</p>
             </figcaption>

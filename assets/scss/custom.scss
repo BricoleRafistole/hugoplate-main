@@ -76,23 +76,10 @@
 .pictos
 {
     width: 200px;
-    border-radius:round(16px);
-}
-
-.pictos:hover
-{
-    background-color: white;
-    filter:invert(100%);
-}
-
-
-.pictos .dark
-{
-    filter:invert(100%);
+@apply rounded-xl hover:bg-white hover:invert dark:invert dark:hover:invert-0;
 }
 
 .dark .pictos:hover
 {
-    filter:invert(100%);
     filter:invert(9%) sepia(90%) saturate(4%) hue-rotate(314deg) brightness(150%) contrast(113%);
 }
