@@ -40,6 +40,7 @@ hifison
 {.pictobis}
 hifison --> 
 
+<!-- <div class="pictos-change"></div> -->
 
 # BRICOLE & RAFISTOLE
 ### Réparations et restaurations en tout genre
