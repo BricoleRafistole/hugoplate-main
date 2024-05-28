@@ -57,3 +57,15 @@ code {
 blockquote > p {
   @apply my-0 #{!important};
 }
+
+.legende
+{   
+    font-size:25px;
+    @apply font-secondary font-bold leading-tight text-dark dark:text-darkmode-dark;
+}
+
+.pictos
+{
+    width: 200px;
+@apply rounded-xl hover:bg-white hover:invert dark:invert dark:hover:invert-0;
+}
