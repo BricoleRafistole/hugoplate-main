@@ -1,13 +1,18 @@
 const purgecss = {
-  content: ["./hugo_stats.json"],
-  defaultExtractor: (content) => {
-    const elements = JSON.parse(content).htmlElements;
-    return [
-      ...(elements.tags || []),
-      ...(elements.classes || []),
-      ...(elements.ids || []),
-    ];
-  },
+  content: ["./hugo_stats.json", "./assets/scss/custom.scss"],
+  extractors: [
+    {
+      extractor: (content) => {
+        const elements = JSON.parse(content).htmlElements;
+        return [
+          ...(elements.tags || []),
+         ...(elements.classes || []),
+         ...(elements.ids || []),
+        ];
+      },
+      extensions: ['json']
+    }
+  ],
   safelist: [
     /^swiper-/,
     /^lb-/,
