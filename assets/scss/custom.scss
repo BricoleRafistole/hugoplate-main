@@ -80,35 +80,7 @@
     }
 }
 
-
-// .picto-change {
-//     width: 200px;
-//     height: 200px;
-//     position:relative;
-// }
-
-// .pictos-change :before {
-//     content: url(../content/french/picto/picto_electromenager.png);
-//     opacity: 1;
-//     width: 100%;
-//     height: 100%;
-//     position:absolute;
-//     transition: opacity 0.1s ease;
-// }
-
-// .pictos-change :before {
-//     content: url(../content/french/picto/picto_outillage.png);
-//     opacity: 0;
-//     width: 100%;
-//     height: 100%;
-//     position:absolute;
-//     transition: opacity 0.1s ease;
-// }
-
-// .pictos-change:hover :before {
-//     opacity: 0;
-// }
-
-// .pictos-change:hover :after {
-//     opacity: 1;
-// }
+.bouton_certif {
+    display:flex;justify-content:center;
+    padding-bottom:40px;
+}

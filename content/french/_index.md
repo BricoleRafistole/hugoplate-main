@@ -12,36 +12,6 @@ layout: "_index"
 
 <hr>
 
-<!-- <table>
-    <tr>
-        <td>
-            <image src="picto/picto_hifi_son.svg" caption="Hifi & Son" alt="Hifi & Son" height="" width="" position="center" command="fill" option="q100" class="pictos" title="Hifi & Son"  webp="false">
-        </td>
-        <td>
-            <image src="picto/picto_hifi_son.svg" caption="Hifi & Son" alt="Hifi & Son" height="" width="" position="center" command="fill" option="q100" class="pictos" title="Hifi & Son"  webp="false">
-        </td>
-                <td>
-            <image src="picto/picto_hifi_son.svg" caption="Hifi & Son" alt="Hifi & Son" height="" width="" position="center" command="fill" option="q100" class="pictos" title="Hifi & Son"  webp="false">
-        </td>
-        <td>
-            <image src="picto/picto_hifi_son.svg" caption="Hifi & Son" alt="Hifi & Son" height="" width="" position="center" command="fill" option="q100" class="pictos" title="Hifi & Son"  webp="false">
-        </td>
-                <td>
-            <image src="picto/picto_hifi_son.svg" caption="Hifi & Son" alt="Hifi & Son" height="" width="" position="center" command="fill" option="q100" class="pictos" title="Hifi & Son"  webp="false">
-        </td>
-    </tr>
-</table> -->
-
-
-<!-- [![Hifi / Son](picto/picto_hifi_son.svg)](activite/hifi_son)
-{.pictobis}
-hifison
-[![Hifi / Son](picto/picto_hifi_son.svg)](activite/hifi_son)
-{.pictobis}
-hifison --> 
-
-<!-- <div class="pictos-change"></div> -->
-
 # BRICOLE & RAFISTOLE
 ### Réparations et restaurations en tout genre
 
@@ -88,62 +58,18 @@ hifison -->
     </a>
 </div>
 
-
-<!-- [![Hifi / Son](picto/picto_hifi_son_darkmode.png)](activite/hifi_son)
-{.dark .inline-image}
-[![Hifi / Son](picto/picto_hifi_son.png)](activite/hifi_son)
-{.light .inline-image}
-[![Electroménager](picto/picto_hifi_son_darkmode.png)](activite/electromenager)
-{.dark .inline-image}
-[![Electroménager](picto/picto_electromenager.png)](activite/electromenager)
-{.light .inline-image}
-[![Carte Electronique](picto/picto_hifi_son_darkmode.png)](activite/carte_electronique)
-{.dark .inline-image}
-[![Carte Electronique](picto/picto_carte_electronique.png)](activite/carte_electronique)
-{.light .inline-image}
-[![Outillage](picto/picto_hifi_son_darkmode.png)](activite/outillage)
-{.dark .inline-image}
-[![Outillage](picto/picto_outillage.png)](activite/outillage)
-{.light .inline-image}
-[![Autre](picto/picto_hifi_son_darkmode.png)](activite/autre)
-{.dark .inline-image}
-[![Autre](picto/picto_autre.png)](activite/autre)
-{.light .inline-image} -->
-
 <p class="presentation">Créé en 2021, Bricole & Rafistole est une entreprise individuelle implantée sur le bassin grenoblois, proche de ses clients et de leurs besoins. Elle est spécialisée dans les réparations de toutes marques de petit électroménager, hifi, électronique, outillage et objet divers. Cette entreprise véhicule des valeurs sociétales et environnementales fortes face aux crises et enjeux de demain.</p>
-
- <!-- <div class="row">
-    <div class="col-md-6 col-6">
-        <h3>
-            Vous avez un besoin ?
-        </h3>
-        {{< button label="Contactez-moi" link="/contact" class="btn btn-outline-primary" style="solid">}}
-    </div>
-    <div class="col-md-6 col-6">
-        <h3>
-            <p>Vous êtes professionnel ?</p>
-        </h3>
-        {{< button label="Plus d'informations" link="/professionnels" class="btn btn-outline-primary" style="solid" >}}
-        <p>Vous êtes professionnel ?</p>
-    </div>
-</div>  -->
 
 <div class="en-ligne">
     <div class="en-colonne">
         <p class="legende">Vous avez un besoin ?</p>
-        <a href="/professionnels" class="btn btn-outline-primary">Contactez-moi</a> 
+        <a href="/contact" class="btn btn-outline-primary">Contactez-moi</a> 
     </div>
     <div class="en-colonne">
         <p class="legende">Vous êtes professionnel ?</p>
         <a href="/professionnels" class="btn btn-outline-primary">Plus d'informations</a> 
     </div>
 </div>
-
-<!-- |Vous avez un besoin ?|Vous êtes professionnel ?|
-| :---------: | :---------: |
-|{{< button label="Contactez-moi" link="/contact" class="btn btn-outline-primary" style="solid">}}|{{< button label="Plus d'informations" link="/professionnel" class="btn btn-outline-primary" style="solid" >}}| -->
-
-
 
 <hr>
 
@@ -159,6 +85,6 @@ hifison -->
 </div>
 
 
-<div style="display:flex;justify-content:center; padding-bottom:40px"> 
+<div class="bouton_certif"> 
     <a href="/certifications" class="btn btn-outline-primary">En savoir plus</a> 
 </div>
