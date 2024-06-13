@@ -14,10 +14,13 @@
     text-decoration: underline;
 }
 
+.sophie:hover {
+    text-decoration: underline;
+}
+
 
 .logo_certif {
-    max-width : 500px;
-    width  : 70%;
+    width  : 350px;
     padding-bottom: 20px;
 }
 
@@ -33,6 +36,7 @@
     justify-content:space-evenly;
     flex-wrap: wrap;
     text-align: center;
+
 }
 
 //pour afficher 1 picto par colone
@@ -43,8 +47,9 @@
 //     }
 // }
 
+
 .presentation{
-    text-align:justify;
+    text-align:left;
     padding-left:50px;
     padding-right:50px;
 }
@@ -52,12 +57,33 @@
 @media (max-width: 768px){
     .presentation{
         padding-left: 25px;
-        padding-right:25px;
+        padding-right: 25px;
     }
 }
 
+.prose :where(hr):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
+    margin-top: 4.5em;
+    margin-bottom: 4.5em;
+}
+
+.content :is(:where(hr):not(:where([class~="not-prose"], [class~="not-prose"] *))) {
+  border-color: lightgray;
+}
+
+.prose :where(figcaption):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
+    margin-top: 0;
+}
+
+
 .legende {   
     font-size:25px;
+    margin-top:0;
+    @apply font-secondary font-bold leading-tight text-dark dark:text-darkmode-dark;
+}
+
+.legende-boutons {   
+    font-size:25px;
+    margin-top:45px;
     @apply font-secondary font-bold leading-tight text-dark dark:text-darkmode-dark;
 }
 
@@ -82,5 +108,5 @@
 
 .bouton_certif {
     display:flex;justify-content:center;
-    padding-bottom:40px;
+    padding-bottom:50px;
 }

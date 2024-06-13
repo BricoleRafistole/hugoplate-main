@@ -1,6 +1,6 @@
 ---
 title: "Professionels"
-meta_title: "A propos"
+meta_title: "Professionnels"
 description: "this is meta description"
 image: "/images/avatar.png"
 draft: False

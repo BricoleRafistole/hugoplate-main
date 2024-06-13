@@ -9,11 +9,10 @@ layout: "_index"
 
 {{< slider dir="images/gallery" class="max-w-[700px] ml-0" height="1500" width="1500" text-align="center" webp="true" command="Fit" option="" zoomable="true" >}}
 
-
 <hr>
 
 # BRICOLE & RAFISTOLE
-### Réparations et restaurations en tout genre
+### Réparation et restauration en tout genre
 
 <div class="container_picto">
     <a href="activite/hifi_son">
@@ -58,15 +57,15 @@ layout: "_index"
     </a>
 </div>
 
-<p class="presentation">Créé en 2021, Bricole & Rafistole est une entreprise individuelle implantée sur le bassin grenoblois, proche de ses clients et de leurs besoins. Elle est spécialisée dans les réparations de toutes marques de petit électroménager, hifi, électronique, outillage et objet divers. Cette entreprise véhicule des valeurs sociétales et environnementales fortes face aux crises et enjeux de demain.</p>
+<p class="presentation">Créée en 2021, Bricole & Rafistole est une entreprise individuelle implantée sur le bassin grenoblois, proche de ses clients et de leurs besoins. Elle est spécialisée dans les réparations de toutes marques de petit électroménager, hifi, électronique, outillage et objet divers. Cette entreprise véhicule des valeurs sociétales et environnementales fortes face aux crises et enjeux de demain.</p>
 
 <div class="en-ligne">
     <div class="en-colonne">
-        <p class="legende">Vous avez un besoin ?</p>
+        <p class="legende-boutons">Vous avez un besoin ?</p>
         <a href="/contact" class="btn btn-outline-primary">Contactez-moi</a> 
     </div>
     <div class="en-colonne">
-        <p class="legende">Vous êtes professionnel ?</p>
+        <p class="legende-boutons">Vous êtes professionnel ?</p>
         <a href="/professionnels" class="btn btn-outline-primary">Plus d'informations</a> 
     </div>
 </div>

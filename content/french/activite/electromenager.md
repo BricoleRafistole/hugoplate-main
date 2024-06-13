@@ -1,5 +1,5 @@
 ---
-title: "Electroménager"
+title: "Électroménager"
 meta_title: ""
 description: "this is meta description"
 draft: false

@@ -19,7 +19,7 @@ weight = 2
 
      [[main]]
     parent = "Activités"
-    name = "Electromenager"
+    name = "Électromenager"
     pageRef = "/activite/electromenager"
     weight = 20
 
@@ -42,7 +42,7 @@ weight = 2
     weight = 50
 
 [[main]]
-name = "A propos"
+name = "À propos"
 pageRef = "/a_propos"
 weight = 3
 
@@ -59,12 +59,12 @@ pageRef = "/"
 weight = 1
 
 [[footer]]
-name = "Activité"
+name = "Activités"
 pageRef = "/activite"
 weight = 2
 
 [[footer]]
-name = "A propos"
+name = "À propos"
 pageRef = "/a_propos"
 weight = 3
 

@@ -1,6 +1,6 @@
 ---
-title: "A propos"
-meta_title: "A propos"
+title: "À propos"
+meta_title: "À propos"
 description: "this is meta description"
 image: "/images/avatar.png"
 draft: false
