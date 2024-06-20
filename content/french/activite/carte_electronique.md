@@ -49,3 +49,30 @@ layout: "single"
         </figure>
     </a>
 </div>
+
+Je réalise le diagnostic et la réparation pour de nombreuses cartes électroniques :
+- Carte électronique de gros électroménager : réfrigérateur, congélateur, lave-linge, lave-vaiselle
+- Carte électronique du foyer : poêle à bois, chaudière, porte de garage, portail, climatisation, jacuzzi
+- Carte d'alimentation diverse
+- Carte de commande de camping car
+
+<div class="notice tip mt-10 mb-10">
+  <div class="notice-head">
+      <svg
+        width="20"
+        height="20"
+        viewBox="0 0 24 24"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg">
+        <path
+          fillRule="evenodd"
+          clipRule="evenodd"
+          d="M12 0C18.6274 0 24 5.37258 24 12C24 18.6274 18.6274 24 12 24C5.37258 24 0 18.6274 0 12C0 5.37258 5.37258 0 12 0ZM12 2.4C6.69807 2.4 2.4 6.69807 2.4 12C2.4 17.3019 6.69807 21.6 12 21.6C17.3019 21.6 21.6 17.3019 21.6 12C21.6 6.69807 17.3019 2.4 12 2.4ZM15.9515 7.55147L9.6 13.9029L8.04853 12.3515C7.5799 11.8828 6.8201 11.8828 6.35147 12.3515C5.88284 12.8201 5.88284 13.5799 6.35147 14.0485L8.75147 16.4485C9.2201 16.9172 9.9799 16.9172 10.4485 16.4485L17.6485 9.24853C18.1172 8.7799 18.1172 8.0201 17.6485 7.55147C17.1799 7.08284 16.4201 7.08284 15.9515 7.55147Z"
+          fill="currentColor" />
+      </svg>
+    <p>Carte électronique</p>
+  </div>
+  <div class="notice-body"><p>N'hésitez pas à me contacter pour des demandes spécifiques</p></div>
+</div>
+
+{{< slider dir="images/gallery" class="max-w-[700px] ml-0 mb-10 mt-10" height="1500" width="1500" text-align="center" webp="true" command="Fit" option="" zoomable="true" >}}

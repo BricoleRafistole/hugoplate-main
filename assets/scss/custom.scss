@@ -60,7 +60,7 @@
         padding-right: 25px;
     }
 }
-
+//pour changer la couleur et la marge des lignes de séparation (hr)
 .prose :where(hr):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
     margin-top: 4.5em;
     margin-bottom: 4.5em;
@@ -74,6 +74,23 @@
     margin-top: 0;
 }
 
+//pour changer les puces initiales
+.content :where(ul):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
+    list-style: none;
+}
+
+.content :is(:where(li):not(:where([class~="not-prose"], [class~="not-prose"] *))){
+  list-style: none;
+}
+
+
+.content li::before {
+
+    content: "￮";
+    font-weight: 900;
+    @apply text-black dark:text-white;
+    display: inline-block; width: 2em;
+}
 
 .legende {   
     font-size:25px;
@@ -110,3 +127,60 @@
     display:flex;justify-content:center;
     padding-bottom:50px;
 }
+
+//CSS pour les notices (petites box avec attention/info de differentes couleurs)
+.notice {
+    margin-bottom: 1.5rem;
+    border: 1px solid #e5e7eb;
+    padding: 1.5rem;
+  }
+  
+  .notice-head {
+    display: flex;
+    align-items: center;
+  }
+  
+  .notice-head svg {
+    margin-right: 0.75rem;
+  }
+  
+  .notice-head p {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #1f2937;
+    margin: 0;
+    line-height: 1;
+  }
+  
+  .notice-body {
+    margin-top: 0.75rem;
+  }
+  
+  .notice-body p {
+    margin: 0;
+  }
+  
+  .notice.note {
+    color: #1b83e2;
+    border-color: currentColor;
+  }
+  
+  .notice.tip {
+    color: #40d294;
+    border-color: currentColor;
+  }
+  
+  .notice.info {
+    color: #e3a72c;
+    border-color: currentColor;
+  }
+  
+  .notice.warning {
+    color: #db2c23;
+    border-color: currentColor;
+  }
+  
+  // darkmode des notices
+  .dark .notice-head p {
+    color: #d1d5db;
+  }

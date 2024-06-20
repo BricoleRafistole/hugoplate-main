@@ -49,3 +49,19 @@ layout: "single"
         </figure>
     </a>
 </div>
+
+Je réalise le diagnostic et la réparation pour tout type de matériel de salon, de studio et de sonorisation :
+- Amplificateur audio
+- Radio/Tunner
+- Lecteur CD
+- Enceinte active/passive
+- Lecteur cassettes
+- Platine vinyle
+- Matériel de sonorisation
+- Accessoire de musique
+- Caisson de basses
+
+N'hésitez pas à rendre la jeunesse de vos chaines Hi-Fi !
+
+{{< slider dir="images/gallery" class="max-w-[700px] ml-0 mb-8" height="1500" width="1500" text-align="center" webp="true" command="Fit" option="" zoomable="true" >}}
+
