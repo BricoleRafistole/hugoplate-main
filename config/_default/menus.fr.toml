@@ -79,7 +79,7 @@ pageRef = "/certifications"
 weight = 5
 
 [[footer]]
-name = "Professionels"
+name = "Professionnels"
 pageRef = "/professionnels"
 weight = 6
 

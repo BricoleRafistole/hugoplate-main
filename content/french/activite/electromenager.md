@@ -50,7 +50,6 @@ layout: "single"
     </a>
 </div>
 
-En dehors du gros électroménager, je répare tout type de matériel de la maison :
 - Électroménager de cuisine (robot, micro-onde, four, table de cuisson)
 - Équipement du foyer (radiateur, moteurs de volet roulant)
 - Machine à café
@@ -76,7 +75,7 @@ En dehors du gros électroménager, je répare tout type de matériel de la mais
       </svg>
     <p>Gros électroménager</p>
   </div>
-  <div class="notice-body"><p>En dehors de leur carte électronique, je ne prend pas en charge les appareils suivants : réfrigérateur, congélateur, lave-ling, lave vaiselle.</p></div>
+  <div class="notice-body"><p>Prise en charge uniquement des cartes électroniques concernant les appareils suivants : réfrigérateur, congélateur, lave-linge, lave-vaiselle.</p></div>
 </div>
 
 {{< slider dir="images/gallery" class="max-w-[700px] ml-0 mb-10 mt-10" height="1500" width="1500" text-align="center" webp="true" command="Fit" option="" zoomable="true" >}}

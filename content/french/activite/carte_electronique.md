@@ -50,7 +50,6 @@ layout: "single"
     </a>
 </div>
 
-Je réalise le diagnostic et la réparation pour de nombreuses cartes électroniques :
 - Carte électronique de gros électroménager : réfrigérateur, congélateur, lave-linge, lave-vaiselle
 - Carte électronique du foyer : poêle à bois, chaudière, porte de garage, portail, climatisation, jacuzzi
 - Carte d'alimentation diverse

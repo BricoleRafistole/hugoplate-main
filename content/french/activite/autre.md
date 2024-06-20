@@ -50,7 +50,7 @@ layout: "single"
     </a>
 </div>
 
-Je après contact et explication préalable je peux réparer tout type d'appareils spécifiques :
+- Appareil spécifique
 - Radiateur
 - Chariot de golf
 - Moteur volet roulant

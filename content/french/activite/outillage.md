@@ -50,9 +50,8 @@ layout: "single"
     </a>
 </div>
 
-Je peux réparer le matériel suivant :
 - Outillage electropartatif
 - Chargeurs divers
-- Outillage fixe
+- Outillage stationnaire
 
 {{< slider dir="images/gallery" class="max-w-[700px] ml-0 mb-10 mt-10" height="1500" width="1500" text-align="center" webp="true" command="Fit" option="" zoomable="true" >}}
