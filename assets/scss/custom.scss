@@ -184,3 +184,11 @@
   .dark .notice-head p {
     color: #d1d5db;
   }
+
+  .trait_vertical {
+    border-right-width: 1px;
+    border-color: lightgray ;
+  @apply dark:border-darkmode-border;
+  }
+
+  .map { height: 180px; }

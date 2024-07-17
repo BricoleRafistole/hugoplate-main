@@ -2,11 +2,29 @@
   {{ partial "page-header" . }}
 
 
-  <section class="section-sm">
-    <div class="container">
+  <section class="section-sm en-ligne">
+    <div class="lg:col-5 container trait_vertical">
       <div class="row">
-  
-        <div class="md:col-10 lg:col-6 mx-auto">
+        <div class="md:col-10 lg:col-8 mx-auto">
+          <p>Bricole & Rafistole</p>
+          <p>Téléphone :</p>
+          <a href="tel:+33677957767">0677957767</a>
+          <p>Horaires :</p>
+          <p>Du lundi au samedi sur rendez-vous</p>
+          <p>Adresse :</p>
+          <a>109 chemin de l'Enclos 38320 BRIE-ET-ANGONNES</a>
+          {{ with site.Params.google_map }}
+          {{ if .enable }}
+          <div id="map"></div>
+          {{ end }}
+        {{ end }}
+        </div>
+      </div>
+    </div>
+
+    <div class="lg:col-7 container">
+      <div class="row">
+        <div class="md:col-10 lg:col-10 mx-auto">
           <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" data-netlify-recaptcha="true">
             <div class="mb-6">
               <p class="hidden">
@@ -58,7 +76,7 @@
             </div>
               <div data-netlify-recaptcha="true">
             </div>
-            <button type="submit" class="btn btn-primary">Envoyer</button>
+            <button type="submit" class="btn btn-primary mt-6">Envoyer</button>
           </form>
         </div>
       </div>
