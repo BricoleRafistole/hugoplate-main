@@ -185,10 +185,39 @@
     color: #d1d5db;
   }
 
-  .trait_vertical {
+//Gestion hauteur de carte sur ordi et mobile
+  #map { height: 360px; }
+  
+  @media (max-width: 768px){
+    #map { height: 280px; }
+}
+
+
+//pour mettre un trait vertical entre le formulaire de contact et le contact (sauf sur téléphone)
+@media (min-width: 768px){
+    .trait_vertical {
     border-right-width: 1px;
     border-color: lightgray ;
   @apply dark:border-darkmode-border;
   }
+}
 
-  #map { height: 280px; }
+//pour changer la couleur des mini picto dans contact en darkmode + alignement des picto
+
+.mini_picto{
+  padding-right: 16px;
+@apply dark:invert
+}
+
+.align_picto{
+  display:flex;
+  margin-bottom: 8px;
+  margin-left: 16px;
+}
+
+//Pour souligner le numero de telephone sur mobile
+@media (max-width: 768px){
+  .underline_mobile {
+    text-decoration:underline
+}
+}

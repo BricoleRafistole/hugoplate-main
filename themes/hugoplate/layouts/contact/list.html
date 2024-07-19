@@ -10,25 +10,40 @@
   </head>
 
   <section class="section-sm en-ligne">
-    <div class="lg:col-5 container trait_vertical">
+    <div class="lg:col-6 container trait_vertical">
       <div class="row">
         <div class="md:col-10 lg:col-10 mx-auto">
-          <p>Bricole & Rafistole</p>
-          <p>Téléphone :</p>
-          <a href="tel:+33677957767">0677957767</a>
-          <p>Horaires :</p>
-          <p>Du lundi au samedi sur rendez-vous</p>
-          <p>Adresse :</p>
-          <a>109 chemin de l'Enclos 38320 BRIE-ET-ANGONNES</a>
+          <h4 class="display:flex; justify-content:center;"><b>BRICOLE & RAFISTOLE</b> <br>- Valentin SYLLA -</h4>
+          <br>
+          <a class="align_picto" href="tel:+33677957767">
+            <image src="/picto/mini_picto_telephone.svg" alt="" class="mini_picto"></image>
+            <p class="underline_mobile">0677957767</p>
+          </a>
+          <p class="align_picto">
+            <image src="/picto/mini_picto_calendrier.svg" alt="" class="mini_picto"></image>
+            Du lundi au samedi sur rendez-vous
+          </p>
+
+
+          <a class="align_picto" href="geo:45.13267101032854,5.773693008347998">
+          <image src="/picto/mini_picto_adresse.svg" alt="" class="mini_picto"></image>
+          109 chemin de l'Enclos
+          <br>
+          38320 BRIE-ET-ANGONNES</a>
+          <br>
           <div id="map"></div>
+          <br>
+          <br>
         </div>
       </div>
     </div>
 
-    <div class="lg:col-7 container">
+    <div class="lg:col-6 container">
       <div class="row">
         <div class="md:col-10 lg:col-10 mx-auto">
           <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" data-netlify-recaptcha="true">
+            <h4>Formulaire de contact</h4>
+            <br>
             <div class="mb-6">
               <p class="hidden">
                <label>Ne pas remplir ce champ si vous êtes humain : (ignorez-le) <input name="bot-field">
@@ -181,14 +196,22 @@
                   maxZoom: 20
               }).addTo(macarte);
               // Nous définissons l'icône à utiliser pour le marqueur, sa taille affichée (iconSize), sa position (iconAnchor) et le décalage de son ancrage (popupAnchor)
-              var myIcon = L.icon({
-                iconUrl: "../images/favicon.png",
+              {{/*  let customIcon = {
+                iconUrl:"../images/favicon.png",
+                iconSize:[40,40]
+            }
+            
+            let myIcon = L.icon(customIcon);  */}}
+              
+              {{/*  var myIcon = L.icon({
+                iconUrl: "../images/map_icone.png",
                 iconSize: [50, 50],
                 iconAnchor: [25, 50],
                 popupAnchor: [-3, -76],
               });
+              let myIcon = L.icon  */}}
               //ajout de marqueur
-              var marker = L.marker([45.13267101032854, 5.773693008347998],{ icon: myIcon }).addTo(macarte);
+              var marker = L.marker([45.13267101032854, 5.773693008347998]).addTo(macarte);
               marker.bindPopup("<b>Bricole & Rafistole</b>");
           }
           window.onload = function(){

@@ -61,11 +61,18 @@ layout: "_index"
 
 ### Méthodologie
 
-<p class="presentation mt-6 mb-12">Dépôt à l'atelier, diagnostic payant, devis sur mesure</p>
+<p class="presentation mt-8 mb-8 text-left">
+    <li>Premier échange par téléphone ou formulaire de contact</li>
+    <li>Rendez vous pour dépôt à l'atelier (pas de déplacements pour les particuliers)</li>
+    <li>Diagnostic payant comprenant le démontage, les tests et un devis sur mesure</li>
+</p>
 
 ### Tarifs
 
-<p class="presentation mt-6 mb-12">Tarification fonction de l'objet en panne</p>
+<p class="presentation mt-8 mb-8">
+    <li>Diagnostic : 30€ par objet, 45€ pour cartes électroniques et démontages complexes</li>
+    <li>Tarif des réparation sur devis</li>
+</p>
 
 <div class="notice info mt-10 mb-10 text-left" >
   <div class="notice-head">

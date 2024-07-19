@@ -9,11 +9,10 @@ draft: false
 type: "_default"
 layout: "single"
 ---
+<br>
+<h5>Site en cours de construction, merci pour votre compréhension.</h5>
 
-#### Responsibility of Contributors
-
-
-
+<!-- #### Responsibility of Contributors
 Les informations recueillies dans le questionnaire sont enregistrées dans un fichier informatisé par SYLLA Valentin. La base légale du traitement est [base légale du traitement].
 
 Les données marquées par un astérisque dans le questionnaire doivent obligatoirement être fournies. Dans le cas contraire, [préciser les conséquences éventuelles en cas de non-fourniture des données].
@@ -28,4 +27,4 @@ Consultez le site cnil.fr pour plus d’informations sur vos droits.
 
 Pour exercer ces droits ou pour toute question sur le traitement de vos données dans ce dispositif, vous pouvez contacter (le cas échéant, notre délégué à la protection des données ou le service chargé de l’exercice de ces droits) : [adresse électronique, postale, coordonnées téléphoniques, etc.] 
 
-Si vous estimez, après nous avoir contactés, que vos droits « Informatique et Libertés » ne sont pas respectés, vous pouvez adresser une réclamation à la CNIL.
+Si vous estimez, après nous avoir contactés, que vos droits « Informatique et Libertés » ne sont pas respectés, vous pouvez adresser une réclamation à la CNIL. -->
