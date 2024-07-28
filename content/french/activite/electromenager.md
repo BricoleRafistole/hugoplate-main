@@ -18,9 +18,9 @@ layout: "single"
     </a>
     <a href="../electromenager">
         <figure>
-            <image src="../../picto/picto_electromenager.svg" alt="Pictogramme pour l'activité Electromenager" class="pictos">
+            <image src="../../picto/picto_electromenager.svg" alt="Pictogramme pour l'activité Électroménager" class="pictos">
             <figcaption>
-                <p class="legende principale">Electromenager</p>
+                <p class="legende principale">Électroménager</p>
             </figcaption>
         </figure>
     </a>
@@ -51,10 +51,10 @@ layout: "single"
 </div>
 
 - Électroménager de cuisine (robot, micro-onde, four, table de cuisson)
-- Équipement du foyer (radiateur, moteurs de volet roulant)
+- Équipement du foyer (radiateur, moteur de volet roulant)
 - Machine à café
-- Multimédia (lecteur DVD, télévision, ordinateur -sauf problèmes logiciels-)
-- Entretien de la maison (Aspirateur, nettoyeur vapeur)
+- Multimédia (lecteur DVD, télévision, ordinateur - sauf problème logiciel)
+- Entretien de la maison (aspirateur, nettoyeur vapeur)
 - Machine à coudre
 
 
@@ -75,7 +75,7 @@ layout: "single"
       </svg>
     <p>Gros électroménager</p>
   </div>
-  <div class="notice-body"><p>Prise en charge uniquement des cartes électroniques concernant les appareils suivants : réfrigérateur, congélateur, lave-linge, lave-vaiselle.</p></div>
+  <div class="notice-body"><p>Prise en charge uniquement des cartes électroniques concernant les appareils suivants : réfrigérateur, congélateur, lave-linge, lave-vaisselle.</p></div>
 </div>
 
 {{< slider dir="images/gallery" class="max-w-[700px] ml-0 mb-10 mt-10" height="1500" width="1500" text-align="center" webp="true" command="Fit" option="" zoomable="true" >}}

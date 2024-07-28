@@ -19,7 +19,7 @@ weight = 2
 
      [[main]]
     parent = "Activités"
-    name = "Électromenager"
+    name = "Électroménager"
     pageRef = "/activite/electromenager"
     weight = 20
 
@@ -89,7 +89,7 @@ pageRef = "/politique_confidentialite"
 weight = 7
 
 [[footer]]
-name = "Conditions Générales de Vente"
+name = "Conditions générales de vente"
 pageRef = "/cgv"
 weight = 8
 

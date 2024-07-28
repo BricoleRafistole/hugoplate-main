@@ -18,9 +18,9 @@ layout: "single"
     </a>
     <a href="../electromenager">
         <figure>
-            <image src="../../picto/picto_electromenager.svg" alt="Pictogramme pour l'activité Electromenager" class="pictos">
+            <image src="../../picto/picto_electromenager.svg" alt="Pictogramme pour l'activité Électroménager" class="pictos">
             <figcaption>
-                <p class="legende">Electromenager</p>
+                <p class="legende">Électroménager</p>
             </figcaption>
         </figure>
     </a>
@@ -50,7 +50,7 @@ layout: "single"
     </a>
 </div>
 
-- Chaine Hi-Fi
+- Chaîne Hi-Fi
 - Amplificateur audio
 - Radio/Tunner
 - Lecteur CD

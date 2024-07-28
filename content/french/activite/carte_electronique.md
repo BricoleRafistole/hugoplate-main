@@ -1,5 +1,5 @@
 ---
-title: "Cartes électroniques"
+title: "Carte électronique"
 meta_title: ""
 description: "this is meta description"
 draft: false
@@ -18,9 +18,9 @@ layout: "single"
     </a>
     <a href="../electromenager">
         <figure>
-            <image src="../../picto/picto_electromenager.svg" alt="Pictogramme pour l'activité Electromenager" class="pictos">
+            <image src="../../picto/picto_electromenager.svg" alt="Pictogramme pour l'activité Électroménager" class="pictos">
             <figcaption>
-                <p class="legende">Electromenager</p>
+                <p class="legende">Électroménager</p>
             </figcaption>
         </figure>
     </a>
@@ -50,7 +50,7 @@ layout: "single"
     </a>
 </div>
 
-- Carte électronique de gros électroménager : réfrigérateur, congélateur, lave-linge, lave-vaiselle
+- Carte électronique de gros électroménager : réfrigérateur, congélateur, lave-linge, lave-vaisselle
 - Carte électronique du foyer : poêle à bois, chaudière, porte de garage, portail, climatisation, jacuzzi
 - Carte d'alimentation diverse
 - Carte de commande de camping car

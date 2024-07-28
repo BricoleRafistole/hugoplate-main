@@ -25,9 +25,9 @@ layout: "_index"
     </a>
     <a href="activite/electromenager">
         <figure>
-            <image src="picto/picto_electromenager.svg" alt="Pictogramme pour l'activité Electromenager" class="pictos">
+            <image src="picto/picto_electromenager.svg" alt="Pictogramme pour l'activité Électroménager" class="pictos">
             <figcaption>
-                <p class="legende">Electromenager</p>
+                <p class="legende">Électroménager</p>
             </figcaption>
         </figure>
     </a>
@@ -63,14 +63,14 @@ layout: "_index"
 
 <p class="presentation mt-8 mb-8 text-left">
     <li>Premier échange par téléphone ou formulaire de contact</li>
-    <li>Rendez vous pour dépôt à l'atelier (pas de déplacements pour les particuliers)</li>
+    <li>Rendez vous pour dépôt à l'atelier (pas de déplacement pour les particuliers)</li>
     <li>Diagnostic payant comprenant le démontage, les tests et un devis sur mesure</li>
 </p>
 
 ### Tarifs
 
 <p class="presentation mt-8 mb-8">
-    <li>Diagnostic : 30€ par objet, 45€ pour cartes électroniques et démontages complexes</li>
+    <li>Diagnostic : 30€ par objet, 45€ pour carte électronique et démontage complexe</li>
     <li>Tarif des réparations sur devis</li>
 </p>
 
