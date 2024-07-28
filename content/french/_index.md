@@ -71,7 +71,7 @@ layout: "_index"
 
 <p class="presentation mt-8 mb-8">
     <li>Diagnostic : 30€ par objet, 45€ pour cartes électroniques et démontages complexes</li>
-    <li>Tarif des réparation sur devis</li>
+    <li>Tarif des réparations sur devis</li>
 </p>
 
 <div class="notice info mt-10 mb-10 text-left" >

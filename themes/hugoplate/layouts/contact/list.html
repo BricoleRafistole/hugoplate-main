@@ -9,11 +9,11 @@
     <title>Carte</title>
   </head>
 
-  <section class="section-sm en-ligne">
-    <div class="lg:col-6 container trait_vertical">
+  <section class="section-sm en-ligne container">
+    <div class="lg:col-6 trait_vertical">
       <div class="row">
-        <div class="md:col-10 lg:col-10 mx-auto">
-          <h4 class="display:flex; justify-content:center;"><b>BRICOLE & RAFISTOLE</b> <br>- Valentin SYLLA -</h4>
+        <div class="">
+          <h4 class="text-center"><b>BRICOLE & RAFISTOLE</b> <br>- Valentin SYLLA -</h4>
           <br>
           <a class="align_picto" href="tel:+33677957767">
             <image src="/picto/mini_picto_telephone.svg" alt="" class="mini_picto"></image>
@@ -38,11 +38,11 @@
       </div>
     </div>
 
-    <div class="lg:col-6 container">
+    <div class="lg:col-6">
       <div class="row">
-        <div class="md:col-10 lg:col-10 mx-auto">
+        <div class="padding_trait_vertical">
           <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" data-netlify-recaptcha="true">
-            <h4>Formulaire de contact</h4>
+            <h4 class="text-center">Formulaire de contact</h4>
             <br>
             <div class="mb-6">
               <p class="hidden">
@@ -57,7 +57,8 @@
                 name="nom"
                 class="form-input"
                 placeholder="Jean DUPONT"
-                type="text" />
+                type="text"
+                required=true />
             </div>
             <div class="mb-6">
               <label for="email" class="form-label">
@@ -68,7 +69,8 @@
                 name="email"
                 class="form-input"
                 placeholder="jean.dupont@email.com"
-                type="email" />
+                type="email"
+                required=true />
             </div>
             <div class="mb-6">
               <label for="telephone" class="form-label">
@@ -79,7 +81,8 @@
                 name="telephone"
                 class="form-input"
                 placeholder="0600000000"
-                type="tel" />
+                type="tel"
+                required=true />
             </div>
             <div class="mb-6">
               <label for="message" class="form-label">
@@ -90,7 +93,8 @@
                 name="message"
                 class="form-input"
                 placeholder="Expliquez ici votre besoin (panne et références de l'appareil) afin que je vous recontacte"
-                rows="8"></textarea>
+                rows="8"
+                required=true></textarea>
             </div>
               <div data-netlify-recaptcha="true">
             </div>

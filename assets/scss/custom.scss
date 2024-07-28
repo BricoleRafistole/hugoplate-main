@@ -186,7 +186,10 @@
   }
 
 //Gestion hauteur de carte sur ordi et mobile
-  #map { height: 360px; }
+  #map { 
+    height: 360px; 
+    z-index: -1;
+  }
   
   @media (max-width: 768px){
     #map { height: 280px; }
@@ -196,10 +199,17 @@
 //pour mettre un trait vertical entre le formulaire de contact et le contact (sauf sur téléphone)
 @media (min-width: 768px){
     .trait_vertical {
+    padding-right: 36px;
     border-right-width: 1px;
     border-color: lightgray ;
   @apply dark:border-darkmode-border;
   }
+}
+
+@media (min-width: 768px){
+  .padding_trait_vertical {
+  padding-left: 54px;
+}
 }
 
 //pour changer la couleur des mini picto dans contact en darkmode + alignement des picto
