@@ -26,9 +26,9 @@ layout: "single"
     </a>
     <a href="../carte_electronique">
         <figure>
-            <image src="../../picto/picto_carte_electronique.svg" alt="Pictogramme pour l'activité Carte électronique" class="pictos">
+            <image src="../../picto/picto_carte_electronique.svg" alt="Pictogramme pour l'activité Carte Électronique" class="pictos">
             <figcaption>
-                <p class="legende">Carte électronique</p>
+                <p class="legende">Carte Électronique</p>
             </figcaption>
         </figure>
     </a>

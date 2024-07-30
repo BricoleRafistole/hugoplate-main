@@ -1,7 +1,7 @@
 ---
 title: "Accueil"
 meta_title: "Bricole & Rafistole"
-description: "this is meta description"
+description: "Réparation & restauration : matériel électronique, petit electroménager, hifi & objets en tout genre"
 draft: false
 type: ""
 layout: "_index"
@@ -33,9 +33,9 @@ layout: "_index"
     </a>
     <a href="activite/carte_electronique">
         <figure>
-            <image src="picto/picto_carte_electronique.svg" alt="Pictogramme pour l'activité Carte électronique" class="pictos">
+            <image src="picto/picto_carte_electronique.svg" alt="Pictogramme pour l'activité Carte Électronique" class="pictos">
             <figcaption>
-                <p class="legende">Carte électronique</p>
+                <p class="legende">Carte Électronique</p>
             </figcaption>
         </figure>
     </a>
@@ -59,20 +59,19 @@ layout: "_index"
 
 <p class="presentation mb-12">Créée en 2021, Bricole & Rafistole est une entreprise individuelle implantée sur le bassin grenoblois, proche de ses clients et de leurs besoins. Elle est spécialisée dans les réparations de toutes marques de petit électroménager, hifi, électronique, outillage et objet divers. Cette entreprise véhicule des valeurs sociétales et environnementales fortes face aux crises et enjeux de demain.</p>
 
-### Méthodologie
-
-<p class="presentation mt-8 mb-8 text-left">
-    <li>Premier échange par téléphone ou formulaire de contact</li>
-    <li>Rendez vous pour dépôt à l'atelier (pas de déplacement pour les particuliers)</li>
-    <li>Diagnostic payant comprenant le démontage, les tests et un devis sur mesure</li>
-</p>
-
-### Tarifs
-
-<p class="presentation mt-8 mb-8">
-    <li>Diagnostic : 30€ par objet, 45€ pour carte électronique et démontage complexe</li>
-    <li>Tarif des réparations sur devis</li>
-</p>
+<div class="">
+    <h3>Méthodologie</h3>
+    <p class="presentation mt-8 mb-8">
+        <li>Premier échange par <a href="/contact">téléphone ou formulaire de contact</a></li>
+        <li>Prise de rendez-vous pour dépôt à l'atelier (pas de déplacements pour les particuliers)</li>
+        <li>Diagnostic payant comprenant le démontage, les tests et un devis sur mesure</li>
+    </p>
+    <h3>Tarifs</h3>
+    <p class="presentation mt-8 mb-8">
+        <li>Diagnostic : 30€ par objet, 45€ pour carte électronique et démontage complexe</li>
+        <li>Tarif des réparations (fourniture & main d'oeuvre) sur devis</li>
+    </p>
+</div>
 
 <div class="notice info mt-10 mb-10 text-left" >
   <div class="notice-head">

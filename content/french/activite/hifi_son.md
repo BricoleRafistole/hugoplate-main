@@ -26,9 +26,9 @@ layout: "single"
     </a>
     <a href="../carte_electronique">
         <figure>
-            <image src="../../picto/picto_carte_electronique.svg" alt="Pictogramme pour l'activité Carte électronique" class="pictos">
+            <image src="../../picto/picto_carte_electronique.svg" alt="Pictogramme pour l'activité Carte Électronique" class="pictos">
             <figcaption>
-                <p class="legende">Carte électronique</p>
+                <p class="legende">Carte Électronique</p>
             </figcaption>
         </figure>
     </a>
@@ -60,6 +60,8 @@ layout: "single"
 - Matériel de studio/sonorisation
 - Accessoire de musique
 - Caisson de basses
-
-{{< slider dir="images/gallery" class="max-w-[700px] ml-0 mb-8" height="1500" width="1500" text-align="center" webp="true" command="Fit" option="" zoomable="true" >}}
+<br>
+<br>
+<br>
+{{< slider dir="images/gallery" class="max-w-[700px] ml-0 mb-10" height="1500" width="1500" text-align="center" webp="true" command="Fit" option="" zoomable="true" >}}
 

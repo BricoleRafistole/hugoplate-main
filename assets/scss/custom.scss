@@ -50,16 +50,14 @@
 
 .presentation{
     text-align:left;
-    padding-left:50px;
-    padding-right:50px;
 }
 
-@media (max-width: 768px){
-    .presentation{
-        padding-left: 25px;
-        padding-right: 25px;
-    }
-}
+// @media (max-width: 768px){
+//     .presentation{
+//         padding-left: 25px;
+//         padding-right: 25px;
+//     }
+// }
 //pour changer la couleur et la marge des lignes de séparation (hr)
 .prose :where(hr):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
     margin-top: 4.5em;
@@ -166,7 +164,7 @@
   }
   
   .notice.tip {
-    color: #40d294;
+    color: #067b00;
     border-color: currentColor;
   }
   
