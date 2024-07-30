@@ -188,7 +188,7 @@
 //Gestion hauteur de carte sur ordi et mobile
   #map { 
     height: 360px; 
-    z-index: -1;
+    z-index: 0;
   }
   
   @media (max-width: 768px){
@@ -231,3 +231,17 @@
     text-decoration:underline
 }
 }
+
+//pour afficher la separation sur mobile entre formulaire et contact
+@media (min-width: 768px){
+.hr_contact{
+  display: none ;
+}
+}
+
+.hr_contact{
+  border-right-width: 1px;
+  border-color: lightgray ;
+  @apply dark:border-darkmode-border;
+}
+  

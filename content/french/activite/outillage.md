@@ -1,6 +1,6 @@
 ---
 title: "Outillage"
-meta_title: ""
+meta_title: "Outillage"
 description: "this is meta description"
 draft: false
 type: "_default"

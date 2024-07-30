@@ -1,6 +1,6 @@
 ---
 title: "Électroménager"
-meta_title: ""
+meta_title: "Électroménager"
 description: "this is meta description"
 draft: false
 type: "_default"

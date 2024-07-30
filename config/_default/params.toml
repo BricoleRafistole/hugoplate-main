@@ -7,7 +7,7 @@ logo = "images/BR_logo.png"
 logo_darkmode = "images/BR_logo_darkmode.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
-logo_width = "250px"
+logo_width = "240px"
 #logo_height = "32px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
@@ -20,6 +20,7 @@ theme_switcher = true
 theme_default = "system" # available options [light/dark/system]
 # Main Sections
 mainSections = ["blog"]
+meta_image = "images/BR_logo_fond_blanc_avec_marge.png"
 # contact form action
 contact_form_action = "#" # contact form works with [https://airform.io/] or [https://formspree.io]
 # google tag manager, see https://developers.google.com/tag-manager/

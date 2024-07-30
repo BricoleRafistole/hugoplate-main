@@ -1,6 +1,6 @@
 ---
 title: "Carte électronique"
-meta_title: ""
+meta_title: "Carte électronique"
 description: "this is meta description"
 draft: false
 type: "_default"

@@ -1,6 +1,6 @@
 ---
 title: "Accueil"
-meta_title: ""
+meta_title: "Bricole & Rafistole"
 description: "this is meta description"
 draft: false
 type: ""

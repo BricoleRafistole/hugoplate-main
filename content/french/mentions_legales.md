@@ -1,7 +1,7 @@
 ---
 title: "Mentions légales"
 # meta title
-meta_title: ""
+meta_title: "Mentions légales"
 # meta description
 description: "This is meta description"
 # save as draft

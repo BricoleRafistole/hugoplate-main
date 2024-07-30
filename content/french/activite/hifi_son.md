@@ -1,6 +1,6 @@
 ---
-title: "Hifi & Son"
-meta_title: ""
+title: "Hifi & son"
+meta_title: "Hifi & son"
 description: "this is meta description"
 draft: false
 type: "_default"

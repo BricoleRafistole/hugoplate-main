@@ -1,6 +1,6 @@
 ---
 title: "Autre"
-meta_title: ""
+meta_title: "Autre"
 description: "this is meta description"
 draft: false
 type: "_default"
