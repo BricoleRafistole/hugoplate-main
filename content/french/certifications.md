@@ -9,5 +9,3 @@ layout: "single"
 ---
 <br>
 <h5>Site en cours de construction, merci pour votre compréhension.</h5>
-
-<h1>Site en cours de construction, merci pour votre compréhension.</h1>
