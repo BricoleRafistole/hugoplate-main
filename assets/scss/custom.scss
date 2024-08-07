@@ -14,6 +14,25 @@
     text-decoration: underline;
 }
 
+@media (max-width: 768px){
+  .secondaire{
+    visibility: collapse;
+  }
+}
+
+@media (min-width: 768px){
+  .tertiaire{
+    visibility: collapse;
+  }
+}
+
+  .tertiaire{
+    width: 40px;
+    display:flex;
+    justify-content:center;
+  }
+
+
 .sophie:hover {
     text-decoration: underline;
 }
@@ -30,14 +49,31 @@
     }
 }
 
-
+@media (min-width: 768px){
 .container_picto {
     display:flex;
     justify-content:space-evenly;
     flex-wrap: wrap;
     text-align: center;
-
+    margin-bottom: -24px;
+  }
 }
+
+@media (max-width: 768px){
+  .container_picto {
+      display:flex;
+      justify-content:center;
+      flex-wrap: wrap;
+      text-align: center;
+      margin-bottom: -88px;
+    }
+  }
+
+  //alignement champs obligatoires à droite
+  .champs_obligatoires {
+    display:flex;
+    justify-content:end;
+  }
 
 //pour afficher 1 picto par colone
 // @media (max-width: 768px){
@@ -246,4 +282,9 @@
 //marge bot pour la photo de profil de a propos
 .marge_profil{
   padding-bottom: 24px;
+}
+
+.petites_lignes_contact{
+  font-size: smaller;
+  margin-top: 20px;;
 }

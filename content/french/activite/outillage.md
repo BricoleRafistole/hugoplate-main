@@ -8,7 +8,12 @@ layout: "single"
 ---
 
 <div class="container_picto">
-    <a href="../hifi_son">
+    <a href="../carte_electronique" class="tertiaire">
+        <figure>
+            <image src="../../picto/fleche_gauche.svg" alt="Flèche vers carte électronique" class="pictos">
+        </figure>
+    </a>
+    <a href="../hifi_son"  class="secondaire">
         <figure>
             <image src="../../picto/picto_hifi_son.svg" alt="Pictogramme pour l'activité Hifi & Son" class="pictos">
             <figcaption>
@@ -16,7 +21,7 @@ layout: "single"
             </figcaption>
         </figure>
     </a>
-    <a href="../electromenager">
+    <a href="../electromenager" class="secondaire">
         <figure>
             <image src="../../picto/picto_electromenager.svg" alt="Pictogramme pour l'activité Électroménager" class="pictos">
             <figcaption>
@@ -24,7 +29,7 @@ layout: "single"
             </figcaption>
         </figure>
     </a>
-    <a href="../carte_electronique">
+    <a href="../carte_electronique" class="secondaire">
         <figure>
             <image src="../../picto/picto_carte_electronique.svg" alt="Pictogramme pour l'activité Carte Électronique" class="pictos">
             <figcaption>
@@ -32,20 +37,25 @@ layout: "single"
             </figcaption>
         </figure>
     </a>
-    <a href="../outillage">
+    <a href="../outillage" class="">
         <figure>
             <image src="../../picto/picto_outillage.svg" alt="Pictogramme pour l'activité Outillage" class="pictos">
             <figcaption>
-                <p class="legende principale">Outillage</p>
+                <p class="legende principale secondaire">Outillage</p>
             </figcaption>
         </figure>
     </a>
-    <a href="../autre">
+    <a href="../autre" class="secondaire">
         <figure>
             <image src="../../picto/picto_autre.svg" alt="Pictogramme pour l'activité Autre" class="pictos">
             <figcaption>
                 <p class="legende">Autre</p>
             </figcaption>
+        </figure>
+    </a>
+    <a href="../autre" class="tertiaire">
+        <figure>
+            <image src="../../picto/fleche_droite.svg" alt="Flèche vers autre" class="pictos">
         </figure>
     </a>
 </div>

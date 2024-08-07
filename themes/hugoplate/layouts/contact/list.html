@@ -42,14 +42,16 @@
     <div class="lg:col-6">
       <div class="row">
         <div class="padding_trait_vertical">
-          <form name="contact" method="POST" action="/contact_validé/" data-netlify="true" netlify-honeypot="bot-field" data-netlify-recaptcha="true">
-            <h4 class="text-left"><b>Formulaire de contact</b></h4>
+          {{/*  ajouter  data-netlify-recaptcha="true" dans la ligne suivante si je veux remettre le recaptcha  */}}
+          <form name="contact" method="POST" action="/contact_validé/" data-netlify="true" netlify-honeypot="bot-field">
+            <h4 class="text-left">Formulaire de contact</h4>
             <br>
             <div class="mb-6">
               <p class="hidden">
                <label>Ne pas remplir ce champ si vous êtes humain : (ignorez-le) <input name="bot-field">
               </label>
              </p>
+              <p class="champs_obligatoires"><span class="text-red-500">*</span> champs obligatoires</p>
               <label for="nom" class="form-label">
                 Nom complet <span class="text-red-500">*</span>
               </label>
@@ -97,10 +99,13 @@
                 rows="8"
                 required=true></textarea>
             </div>
-              <div data-netlify-recaptcha="true">
-            </div>
-            <button type="submit" class="btn btn-outline-primary mt-6">Envoyer</button>
+            {{/*  <div data-netlify-recaptcha="true">  */}}
+            {{/*  </div>  */}}
+            {{/*  si recaptcha remis en place, mettre mt-6 dans class de la ligne suivante  */}}
+            <button type="submit" class="btn btn-outline-primary">Envoyer</button>
           </form>
+          <p class="petites_lignes_contact">Bricole & Rafistole traite les données recueillies dans le seul but de répondre à vos demandes de réparation.
+          Pour en savoir plus sur la gestion de vos données personnelles, reportez-vous à la <a href="/politique_confidentialite/" class="principale">politique de confidentialité.</a></p>
         </div>
       </div>
     </div>

@@ -79,7 +79,7 @@ layout: "single"
         <p class="list-style:none">
             <li>Téléphone portable</li>
             <li>Ordinateur avec problème logiciel</li>
-            <li>Lave-Linge, Lave-Vaiselle, Réfrigérateur <b>sauf partie électronique</b></li>
+            <li>Lave-linge, lave-vaisselle, réfrigérateur <b>sauf partie électronique</b></li>
         </p>
     </div>
 </div>

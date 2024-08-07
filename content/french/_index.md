@@ -57,21 +57,20 @@ layout: "_index"
     </a>
 </div>
 
-<p class="presentation mb-12">Créée en 2021, Bricole & Rafistole est une entreprise individuelle implantée sur le bassin grenoblois, proche de ses clients et de leurs besoins. Elle est spécialisée dans les réparations de toutes marques de petit électroménager, hifi, électronique, outillage et objet divers. Cette entreprise véhicule des valeurs sociétales et environnementales fortes face aux crises et enjeux de demain.</p>
+<p class="presentation mb-8">Créée en 2021, Bricole & Rafistole est une entreprise individuelle implantée sur le bassin grenoblois, proche de ses clients et de leurs besoins. Elle est spécialisée dans les réparations de toutes marques de petit électroménager, hifi, électronique, outillage et objet divers. Cette entreprise véhicule des valeurs sociétales et environnementales fortes face aux crises et enjeux de demain.</p>
 
-<div class="">
-    <h3>Méthodologie</h3>
-    <p class="presentation mt-8 mb-8">
-        <li>Premier échange par <a href="/contact">téléphone ou formulaire de contact</a></li>
-        <li>Prise de rendez-vous pour dépôt à l'atelier (pas de déplacements pour les particuliers)</li>
-        <li>Diagnostic payant comprenant le démontage, les tests et un devis sur mesure</li>
-    </p>
-    <h3>Tarifs</h3>
-    <p class="presentation mt-8 mb-8">
-        <li>Diagnostic : 30€ par objet, 45€ pour carte électronique et démontage complexe</li>
-        <li>Tarif des réparations (fourniture & main d'oeuvre) sur devis</li>
-    </p>
-</div>
+<h3>Méthodologie</h3>
+<p class="presentation mt-8 mb-8">
+    <li>Premier échange par <a href="/contact">téléphone ou formulaire de contact</a></li>
+    <li>Prise de rendez-vous pour dépôt à l'atelier (pas de déplacements pour les particuliers)</li>
+    <li>Diagnostic payant comprenant le démontage, les tests et un devis sur mesure</li>
+</p>
+
+<h3>Tarifs</h3>
+<p class="presentation mt-8 mb-8">
+    <li>Diagnostic : 30€ par objet, 45€ pour carte électronique et démontage complexe</li>
+    <li>Tarif des réparations (fourniture & main d'oeuvre) sur devis</li>
+</p>
 
 <div class="notice info mt-10 mb-10 text-left" >
   <div class="notice-head">
@@ -94,7 +93,7 @@ layout: "_index"
         <p class="list-style:none">
             <li>Téléphone portable</li>
             <li>Ordinateur avec problème logiciel</li>
-            <li>Lave-Linge, Lave-Vaiselle, Réfrigérateur <b>sauf pour la carte électronique</b></li>
+            <li>Lave-linge, lave-vaisselle, réfrigérateur <b>sauf pour la carte électronique</b></li>
         </p>
     </div>
 </div>
