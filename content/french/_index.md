@@ -14,7 +14,7 @@ layout: "_index"
 # BRICOLE & RAFISTOLE
 ### Réparation et restauration en tout genre
 
-<div class="container_picto">
+<div class="container_picto_accueil">
     <a href="activite/hifi_son">
         <figure>
             <image src="picto/picto_hifi_son.svg" alt="Pictogramme pour l'activité Hifi & Son" class="pictos">

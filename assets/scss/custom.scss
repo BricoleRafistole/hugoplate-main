@@ -49,6 +49,14 @@
     }
 }
 
+.container_picto_accueil {
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+    text-align: center;
+    margin-bottom: -8px;
+  }
+
 @media (min-width: 768px){
 .container_picto {
     display:flex;
@@ -287,4 +295,16 @@
 .petites_lignes_contact{
   font-size: smaller;
   margin-top: 20px;;
+}
+
+@media (max-width: 768px){
+  .logo-dark {
+    width:200px !important;
+}
+}
+
+@media (max-width: 768px){
+  .logo-light {
+    width:200px !important;
+}
 }
