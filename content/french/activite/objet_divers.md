@@ -1,7 +1,7 @@
 ---
-title: "Autre"
-meta_title: "Autre"
-description: "this is meta description"
+title: "Objet Divers"
+meta_title: "Bricole & Rafistole : réparer un appareil spécifique"
+meta_description: "Entreprise du bassin grenoblois spécialisée dans la réparation d'objets divers du quotidien, de la maison ou spécifique à une activité."
 draft: false
 type: "_default"
 layout: "single"
@@ -45,11 +45,11 @@ layout: "single"
             </figcaption>
         </figure>
     </a>
-    <a href="../autre" class="">
+    <a href="../objet_divers" class="">
         <figure>
-            <image src="../../picto/picto_autre.svg" alt="Pictogramme pour l'activité Autre" class="pictos">
+            <image src="../../picto/picto_objet_divers.svg" alt="Pictogramme pour l'activité Objet divers" class="pictos">
             <figcaption>
-                <p class="legende principale secondaire">Autre</p>
+                <p class="legende principale secondaire">Objet Divers</p>
             </figcaption>
         </figure>
     </a>
@@ -86,4 +86,4 @@ layout: "single"
 
 
 
-{{< slider dir="images/gallery" class="max-w-[700px] ml-0 mb-10 mt-10" height="1500" width="1500" text-align="center" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< slider dir="images/gallery_objet_divers" class="max-w-[700px] ml-0 t-10 marge_slider" height="1500" width="1500" text-align="center" webp="true" command="Fit" option="" zoomable="true" >}}

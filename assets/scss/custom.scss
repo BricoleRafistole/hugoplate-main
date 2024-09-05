@@ -1,5 +1,6 @@
 // Add your own custom styles here
 
+//pour definir les pictogrammes ainsi que leur survol
 .pictos {
     width: 200px;
     border-radius: round(16px);
@@ -10,10 +11,12 @@
     filter:invert(9%) sepia(90%) saturate(4%) hue-rotate(314deg) brightness(150%) contrast(113%);
 }
 
+//pour souligner la légende de la page d'activité actuelle et d'autre liens cliquables
 .principale {
     text-decoration: underline;
 }
 
+//pour passer de tous les pictos sur PC à un seul picto avec flèches sur telephone
 @media (max-width: 768px){
   .secondaire{
     visibility: collapse;
@@ -32,12 +35,12 @@
     justify-content:center;
   }
 
-
+//pour souligner le liens vers le site de sophie au survol
 .sophie:hover {
     text-decoration: underline;
 }
 
-
+//pour définir les logos des cartifications
 .logo_certif {
     width  : 350px;
     padding-bottom: 20px;
@@ -49,6 +52,7 @@
     }
 }
 
+//Pour définir le container des pictogrammes
 .container_picto_accueil {
     display:flex;
     justify-content:space-evenly;
@@ -73,7 +77,7 @@
       justify-content:center;
       flex-wrap: wrap;
       text-align: center;
-      margin-bottom: -88px;
+      margin-bottom: -60px;
       overflow-x: hidden;
     }
   }
@@ -84,25 +88,13 @@
     justify-content:end;
   }
 
-//pour afficher 1 picto par colone
-// @media (max-width: 768px){
-//     .container_picto{
-//         flex-direction: column;
-//         align-items: center;
-//     }
-// }
 
 
 .presentation{
     text-align:left;
 }
 
-// @media (max-width: 768px){
-//     .presentation{
-//         padding-left: 25px;
-//         padding-right: 25px;
-//     }
-// }
+
 //pour changer la couleur et la marge des lignes de séparation (hr)
 .prose :where(hr):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
     margin-top: 4.5em;
@@ -135,6 +127,7 @@
     display: inline-block; width: 2em;
 }
 
+//pour définir les legendes (notamment des pictogrammes)
 .legende {   
     font-size:25px;
     margin-top:0;
@@ -147,6 +140,7 @@
     @apply font-secondary font-bold leading-tight text-dark dark:text-darkmode-dark;
 }
 
+//pour definir lignes et colonnes des boutons de la page d'accueil
 .en-colonne{
     display: flex;
     justify-content: space-between;
@@ -166,6 +160,7 @@
     }
 }
 
+//pour définir le bouton vers la page certifications
 .bouton_certif {
     display:flex;justify-content:center;
     padding-bottom:50px;
@@ -293,11 +288,13 @@
   padding-bottom: 24px;
 }
 
+
 .petites_lignes_contact{
   font-size: smaller;
   margin-top: 20px;;
 }
 
+//Pour diminuer la taille des logos sur téléphone
 @media (max-width: 768px){
   .logo-dark {
     width:200px !important;
@@ -308,4 +305,14 @@
   .logo-light {
     width:200px !important;
 }
+}
+
+@media (max-width: 768px){
+  .content figure{
+    margin-bottom: 0px;
+}
+}
+
+.marge_slider {
+  margin-bottom: 72px;
 }

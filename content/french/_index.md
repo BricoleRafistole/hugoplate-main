@@ -1,13 +1,13 @@
 ---
 title: "Accueil"
-meta_title: "Bricole & Rafistole"
-description: "Réparation & restauration : matériel électronique, petit electroménager, hifi & objets en tout genre"
+meta_title: "Bricole & Rafistole : réparation autour de Grenoble"
+meta_description: "Entreprise du bassin grenoblois spécialisée dans la réparation de petit électroménager, hifi, cartes électroniques, outillage et objet divers."
 draft: false
 type: ""
 layout: "_index"
 ---
 
-{{< slider dir="images/gallery" class="max-w-[700px] ml-0" height="1500" width="1500" text-align="center" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< slider dir="images/gallery_accueil" class="max-w-[700px] ml-0" height="1500" width="1500" text-align="center" webp="true" command="Fit" option="" zoomable="true" >}}
 
 <hr>
 
@@ -47,32 +47,32 @@ layout: "_index"
             </figcaption>
         </figure>
     </a>
-    <a href="activite/autre">
+    <a href="activite/objet_divers">
         <figure>
-            <image src="picto/picto_autre.svg" alt="Pictogramme pour l'activité Autre" class="pictos">
+            <image src="picto/picto_objet_divers.svg" alt="Pictogramme pour l'activité Objet divers" class="pictos">
             <figcaption>
-                <p class="legende">Autre</p>
+                <p class="legende">Objet divers</p>
             </figcaption>
         </figure>
     </a>
 </div>
 
-<p class="presentation mb-8">Créée en 2021, Bricole & Rafistole est une entreprise individuelle implantée sur le bassin grenoblois, proche de ses clients et de leurs besoins. Elle est spécialisée dans les réparations de toutes marques de petit électroménager, hifi, électronique, outillage et objet divers. Cette entreprise véhicule des valeurs sociétales et environnementales fortes face aux crises et enjeux de demain.</p>
+<p class="presentation mb-16">Créée en 2021, Bricole & Rafistole est une entreprise individuelle implantée sur le bassin grenoblois, proche de ses clients et de leurs besoins. Elle est spécialisée dans les réparations de toutes marques de petit électroménager, hifi, électronique, outillage et objet divers. Cette entreprise véhicule des valeurs sociétales et environnementales fortes face aux crises et enjeux de demain.</p>
 
 <h3>Méthodologie</h3>
-<p class="presentation mt-8 mb-8">
+<p class="presentation mt-8">
     <li>Premier échange par <a href="/contact">téléphone ou formulaire de contact</a></li>
     <li>Prise de rendez-vous pour dépôt à l'atelier (pas de déplacements pour les particuliers)</li>
     <li>Diagnostic payant comprenant le démontage, les tests et un devis sur mesure</li>
 </p>
-
+<br>
 <h3>Tarifs</h3>
-<p class="presentation mt-8 mb-8">
+<p class="presentation mt-8">
     <li>Diagnostic : 30€ par objet, 45€ pour carte électronique et démontage complexe</li>
     <li>Tarif des réparations (fourniture & main d'oeuvre) sur devis</li>
 </p>
-
-<div class="notice info mt-10 mb-10 text-left" >
+<br>
+<div class="notice info mt-8 mb-10 text-left" >
   <div class="notice-head">
     <svg
         width="20"

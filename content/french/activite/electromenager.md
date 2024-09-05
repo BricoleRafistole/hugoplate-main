@@ -1,7 +1,7 @@
 ---
 title: "Électroménager"
-meta_title: "Électroménager"
-description: "this is meta description"
+meta_title: "Bricole & Rafistole : réparer un petit électroménager"
+meta_description: "Entreprise du bassin grenoblois spécialisée dans la réparation de petits appareils électroménager."
 draft: false
 type: "_default"
 layout: "single"
@@ -45,11 +45,11 @@ layout: "single"
             </figcaption>
         </figure>
     </a>
-    <a href="../autre" class="secondaire">
+    <a href="../objet_divers" class="secondaire">
         <figure>
-            <image src="../../picto/picto_autre.svg" alt="Pictogramme pour l'activité Autre" class="pictos">
+            <image src="../../picto/picto_objet_divers.svg" alt="Pictogramme pour l'activité Objet divers" class="pictos">
             <figcaption>
-                <p class="legende">Autre</p>
+                <p class="legende">Objet Divers</p>
             </figcaption>
         </figure>
     </a>
@@ -60,10 +60,10 @@ layout: "single"
     </a>
 </div>
 
-- Électroménager de cuisine (robot, micro-onde, four, table de cuisson)
+- Électroménager de cuisine (robot, micro-onde, four, table de cuisson, hotte aspirante)
 - Équipement du foyer (radiateur, moteur de volet roulant)
 - Machine à café
-- Multimédia (lecteur DVD, télévision, ordinateur - sauf problème logiciel)
+- Multimédia (lecteur DVD, télévision, écran, ordinateur - sauf problème logiciel)
 - Entretien de la maison (aspirateur, nettoyeur vapeur)
 - Machine à coudre
 
@@ -88,5 +88,5 @@ layout: "single"
   <div class="notice-body"><p>Prise en charge uniquement des cartes électroniques concernant les appareils suivants : réfrigérateur, congélateur, lave-linge, lave-vaisselle.</p></div>
 </div>
 
-{{< slider dir="images/gallery" class="max-w-[700px] ml-0 mb-10 mt-10" height="1500" width="1500" text-align="center" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< slider dir="images/gallery_electromenager" class="max-w-[700px] ml-0 marge_slider mt-10" height="1500" width="1500" text-align="center" webp="true" command="Fit" option="" zoomable="true" >}}
 

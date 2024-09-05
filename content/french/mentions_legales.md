@@ -1,10 +1,7 @@
 ---
 title: "Mentions légales"
-# meta title
-meta_title: "Mentions légales"
-# meta description
-description: "This is meta description"
-# save as draft
+meta_title: "Bricole & Rafistole : mentions légales"
+meta_description: "Voici les mentions légales de l'entreprise du bassin grenoblois spécialisée dans la réparation de petit électroménager, hifi, cartes électroniques, outillage et objet divers."
 draft: false
 type: "_default"
 layout: "single"

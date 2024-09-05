@@ -57,7 +57,7 @@ show_categories = true
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Réparation","Bricole","Rafistole","Electronique","Grenoble"]
+keywords = ["Réparation","Bricole","Rafistole","Electronique","Grenoble","Isère","Réparer","carte electronique"]
 description = "Bricole & Rafistole, entreprise de réparation d'électronique, hifi, électroménager, divers"
 author = "Valentin SYLLA"
 image = "images/BR_logo_fond_blanc_avec_marge.png"

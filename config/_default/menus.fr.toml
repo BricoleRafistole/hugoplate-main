@@ -37,8 +37,8 @@ weight = 2
 
     [[main]]
     parent = "Activités"
-    name = "Autre"
-    pageRef = "/activite/autre"
+    name = "Objet Divers"
+    pageRef = "/activite/objet_divers"
     weight = 50
 
 [[main]]

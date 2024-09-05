@@ -1,7 +1,7 @@
 ---
 title: "Hifi & son"
-meta_title: "Hifi & son"
-description: "this is meta description"
+meta_title: "Bricole & Rafistole : réparer un appareil Hi-Fi"
+meta_description: "Entreprise du bassin grenoblois spécialisée dans la réparation de matériel Hi-Fi et spécifique pour le son."
 draft: false
 type: "_default"
 layout: "single"
@@ -9,9 +9,9 @@ layout: "single"
 
 
 <div class="container_picto">
-    <a href="../autre" class="tertiaire">
+    <a href="../objet_divers" class="tertiaire">
         <figure>
-            <image src="../../picto/fleche_gauche.svg" alt="Flèche vers autre" class="pictos">
+            <image src="../../picto/fleche_gauche.svg" alt="Flèche vers Objet divers" class="pictos">
         </figure>
     </a>
     <a href="../hifi_son"  class="">
@@ -46,11 +46,11 @@ layout: "single"
             </figcaption>
         </figure>
     </a>
-    <a href="../autre" class="secondaire">
+    <a href="../objet_divers" class="secondaire">
         <figure>
-            <image src="../../picto/picto_autre.svg" alt="Pictogramme pour l'activité Autre" class="pictos">
+            <image src="../../picto/picto_objet_divers.svg" alt="Pictogramme pour l'activité Objet divers" class="pictos">
             <figcaption>
-                <p class="legende">Autre</p>
+                <p class="legende">Objet Divers</p>
             </figcaption>
         </figure>
     </a>
@@ -72,5 +72,5 @@ layout: "single"
 - Accessoire de musique
 - Caisson de basses
  
-{{< slider dir="images/gallery" class="max-w-[700px] ml-0 mb-10" height="1500" width="1500" text-align="center" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< slider dir="images/gallery_hifi_et_son" class="max-w-[700px] ml-0 marge_slider" height="1500" width="1500" text-align="center" webp="true" command="Fit" option="" zoomable="true" >}}
 
