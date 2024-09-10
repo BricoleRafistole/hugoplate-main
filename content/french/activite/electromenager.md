@@ -88,5 +88,5 @@ layout: "single"
   <div class="notice-body"><p>Prise en charge uniquement des cartes électroniques concernant les appareils suivants : réfrigérateur, congélateur, lave-linge, lave-vaisselle.</p></div>
 </div>
 
-{{< slider dir="images/gallery_electromenager" class="max-w-[700px] ml-0 marge_slider mt-10" height="1500" width="1500" text-align="center" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< slider dir="images/gallery_electromenager" class="max-w-[700px] ml-0 marge_slider mt-10" height="1500" width="1500" text-align="center" webp="true" command="Fit" option="" zoomable="false" >}}
 

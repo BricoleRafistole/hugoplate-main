@@ -84,4 +84,4 @@ layout: "single"
   <div class="notice-body"><p>N'hésitez pas à me contacter pour des demandes spécifiques</p></div>
 </div>
 
-{{< slider dir="images/gallery_carte_electronique" class="max-w-[700px] ml-0 marge_slider mt-10" height="1500" width="1500" text-align="center" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< slider dir="images/gallery_carte_electronique" class="max-w-[700px] ml-0 marge_slider mt-10" height="1500" width="1500" text-align="center" webp="true" command="Fit" option="" zoomable="false" >}}

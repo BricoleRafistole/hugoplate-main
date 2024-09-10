@@ -72,5 +72,5 @@ layout: "single"
 - Accessoire de musique
 - Caisson de basses
  
-{{< slider dir="images/gallery_hifi_et_son" class="max-w-[700px] ml-0 marge_slider" height="1500" width="1500" text-align="center" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< slider dir="images/gallery_hifi_et_son" class="max-w-[700px] ml-0 marge_slider" height="1500" width="1500" text-align="center" webp="true" command="Fit" option="" zoomable="false" >}}
 
