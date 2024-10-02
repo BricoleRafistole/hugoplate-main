@@ -282,11 +282,6 @@
   border-color: lightgray ;
   @apply dark:border-darkmode-border;
 }
-  
-//marge bot pour la photo de profil de a propos
-.marge_profil{
-  padding-bottom: 24px;
-}
 
 
 .petites_lignes_contact{
@@ -297,13 +292,13 @@
 //Pour diminuer la taille des logos sur téléphone
 @media (max-width: 768px){
   .logo-dark {
-    width:200px !important;
+    width:160px !important;
 }
 }
 
 @media (max-width: 768px){
   .logo-light {
-    width:200px !important;
+    width:160px !important;
 }
 }
 
@@ -315,4 +310,18 @@
 
 .marge_slider {
   margin-bottom: 72px;
+}
+
+@media (min-width: 768px){
+  .marges_tarif_methodo{
+    padding-left: 12px;
+    padding-right: 12px;
+}
+}
+
+@media (min-width: 768px){
+  .marges_a_propos{
+    padding-left: 12px;
+    padding-right: 12px;
+}
 }
