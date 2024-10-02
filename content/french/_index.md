@@ -62,6 +62,8 @@ layout: "_index"
 <hr>
 
 # INFORMATIONS
+
+<br>
 <div class="en-ligne">
     <div class="lg:col-6 text-left marges_tarif_methodo">
         <h3 class="text-center">Méthodologie</h3>

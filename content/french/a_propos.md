@@ -1,5 +1,5 @@
 ---
-title: "À propos"
+title: "À Propos"
 meta_title: "Bricole & Rafistole : présentation de Valentin SYLLA"
 meta_description: "Créateur de l'entreprise Iséroise spécialisée dans la réparation de petit électroménager, hifi, cartes électroniques, outillage et objet divers."
 image: "/images/avatar.png"
@@ -9,10 +9,10 @@ layout: "single"
 ---
 <br>
 <div class="en-ligne">
-    <div class="lg:col-6 text-left marges_a_propos">
+    <div class="lg:col-6 text-left marges_a_propos_colonne_gauche">
     {{< image src="/images/BR-A_Propos.jpg" caption="" alt="Photo de profil de Valentin SYLLA" height="" width="" position="center" command="fill" option="q100" class="" title=""  webp="false" >}}
     </div>
-    <div class="lg:col-6 text-left marges_a_propos">
+    <div class="lg:col-6 text-left marges_a_propos_colonne_droite">
         <p class="presentation mt-8">
             Dès mon plus jeune âge, l’envie de comprendre le fonctionnement des objets me pousse à les démonter lorsqu'ils tombent en panne. Grâce aux expérimentations et aux nombreuses tentatives infructueuses, j’ai pu développer des compétences dans de nombreux domaines (électricité, électronique, travail du bois/métal, plomberie, mécanique auto, restauration d’objets anciens…). Mes études d’ingénieur en Génie Civil ont complété mon bagage théorique et m’ont permis de travailler en bureau d’étude thermique & énergétique du bâtiment. 
             <br>

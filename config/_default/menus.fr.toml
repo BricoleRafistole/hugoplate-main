@@ -42,7 +42,7 @@ weight = 2
     weight = 50
 
 [[main]]
-name = "À propos"
+name = "À Propos"
 pageRef = "/a_propos"
 weight = 3
 

@@ -11,6 +11,12 @@
     filter:invert(9%) sepia(90%) saturate(4%) hue-rotate(314deg) brightness(150%) contrast(113%);
 }
 
+@media (max-width: 316px){
+  .pictos{
+    width: 160px;
+  }
+}
+
 //pour souligner la légende de la page d'activité actuelle et d'autre liens cliquables
 .principale {
     text-decoration: underline;
@@ -29,11 +35,21 @@
   }
 }
 
+@media (max-width: 316px){
+  .tertiaire{
+    width: 32px;
+    display:flex;
+    justify-content:center;
+  }
+}
+
+@media (min-width: 316px){
   .tertiaire{
     width: 40px;
     display:flex;
     justify-content:center;
   }
+}
 
 //pour souligner le liens vers le site de sophie au survol
 .sophie:hover {
@@ -153,7 +169,7 @@
     flex-direction : row
 }
 
-@media (max-width: 768px){
+@media (max-width: 1024px){
     .en-ligne{
         flex-direction: column;
         align-items: center;
@@ -235,7 +251,7 @@
 
 
 //pour mettre un trait vertical entre le formulaire de contact et le contact (sauf sur téléphone)
-@media (min-width: 768px){
+@media (min-width: 1024px){
     .trait_vertical {
     padding-right: 36px;
     border-right-width: 1px;
@@ -244,11 +260,12 @@
   }
 }
 
-@media (min-width: 768px){
+@media (min-width: 1024px){
   .padding_trait_vertical {
-  padding-left: 54px;
+  padding-left: 18px;
 }
 }
+
 
 //pour changer la couleur des mini picto dans contact en darkmode + alignement des picto
 
@@ -271,7 +288,7 @@
 }
 
 //pour afficher la separation sur mobile entre formulaire et contact
-@media (min-width: 768px){
+@media (min-width: 1024px){
 .hr_contact{
   display: none ;
 }
@@ -302,7 +319,7 @@
 }
 }
 
-@media (max-width: 768px){
+@media (max-width: 1024px){
   .content figure{
     margin-bottom: 0px;
 }
@@ -312,16 +329,35 @@
   margin-bottom: 72px;
 }
 
-@media (min-width: 768px){
+@media (min-width: 1024px){
   .marges_tarif_methodo{
     padding-left: 12px;
     padding-right: 12px;
 }
 }
 
+@media (min-width: 1024px){
+  .marges_a_propos_colonne_gauche{
+    padding-right: 16px;
+}
+}
+
+@media (min-width: 1024px){
+  .marges_a_propos_colonne_droite{
+    padding-left: 16px;
+}
+}
+
 @media (min-width: 768px){
-  .marges_a_propos{
-    padding-left: 12px;
-    padding-right: 12px;
+  .marges_header{
+    padding-left: 48px;
+    padding-right: 48px;
+}
+}
+
+@media (max-width: 768px){
+  .marges_header{
+    padding-left: 32px;
+    padding-right: 32px;
 }
 }
