@@ -25,13 +25,13 @@
 //pour passer de tous les pictos sur PC à un seul picto avec flèches sur telephone
 @media (max-width: 768px){
   .secondaire{
-    visibility: collapse;
+    display: none !important;
   }
 }
 
 @media (min-width: 768px){
   .tertiaire{
-    visibility: collapse;
+    display: none !important;
   }
 }
 
@@ -93,7 +93,6 @@
       justify-content:center;
       flex-wrap: wrap;
       text-align: center;
-      margin-bottom: -60px;
       overflow-x: hidden;
     }
   }
