@@ -8,4 +8,4 @@ type: "_default"
 layout: "single"
 ---
 <br>
-<h5>Site en cours de construction, merci pour votre compréhension.</h5>
+<h5>Page en cours de construction, merci pour votre compréhension.</h5>

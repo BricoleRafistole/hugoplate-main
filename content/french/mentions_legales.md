@@ -43,11 +43,22 @@ L’Éditeur ne pourra en aucun cas être tenu pour responsable des informations
 Si une personne dirige ses utilisateurs vers le présent site internet, l’Éditeur se réserve la possibilité de demander la suppression du lien hypertexte pointant vers ce site s’il estime que ce lien n’est pas conforme à ses droits et intérêts légitimes.
 <br>
 <br>
+### Annuaires externes
+
+Voici la liste des annuaires externes sur lesquels Bricole & Rafistole est représenté :
+
+https://www.jesuisreparateur.fr au lien suivant https://www.jesuisreparateur.fr/reparateur/93413
+
+https://www.pagesjaunes.fr/ au lien suivant https://www.pagesjaunes.fr/pros/61534041
+
+https://www.artisan-en-ligne.com/ au lien suivant https://www.artisan-en-ligne.com/artisan-bricole-amp-rafistole-773412
+<br>
+<br>
 ### Crédits
 
 Le site a été réalisé par SYLLA Valentin.<br>
 Les photographies présentes sur le site ont été réalisées par SYLLA Valentin et ne sont pas libres de droits.<br>
-Le design et les illustrations du site ont été réalisés par Sophie GAUDILLAT.<br>
+Le design et les illustrations du site ont été réalisés par Sophie GAUDILLAT et ne sont pas libres de droits.<br>
 Vous pouvez retrouver un apperçu de son travail en suivant ce lien : https://sophiegaudillat.myportfolio.com/
 
 <br>
