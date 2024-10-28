@@ -68,17 +68,21 @@ layout: "_index"
     <div class="lg:col-6 text-left marges_tarif_methodo">
         <h3 class="text-center">Méthodologie</h3>
         <p class="presentation">
-            <li>Premier échange par <a href="/contact">téléphone ou formulaire de contact</a></li>
-            <li>Prise de rendez-vous requise pour dépôt à l'atelier</li>
-            <li>Diagnostic payant comprenant : démontage, tests et devis sur mesure</li>
+            <ul>
+                <li>Premier échange par <a href="/contact">téléphone ou formulaire de contact</a></li>
+                <li>Prise de rendez-vous requise pour dépôt à l'atelier</li>
+                <li>Diagnostic payant comprenant : démontage, tests et devis sur mesure</li>
+            </ul>
         </p>
     </div>
     <div class="lg:col-6 text-left marges_tarif_methodo">
         <h3 class="text-center">Tarifs</h3>
         <p class="presentation">
-            <li>30€ : diagnostic pour appareil standard</li>
-            <li>45€ : diagnostic pour carte électronique ou démontage complexe</li>
-            <li>Tarif des réparations (fourniture & main d'oeuvre) sur devis</li>
+            <ul>
+                <li>30€ : diagnostic pour appareil standard</li>
+                <li>45€ : diagnostic pour carte électronique ou démontage complexe</li>
+                <li>Tarif des réparations (fourniture & main d'oeuvre) sur devis</li>
+            </ul>
         </p>
     </div>
 </div>
@@ -103,10 +107,12 @@ layout: "_index"
   </div>
     <div class="notice-body">
         <p class="list-style:none">
-            <li>Téléphone portable</li>
-            <li>Ordinateur avec problème logiciel</li>
-            <li>Lave-linge, lave-vaisselle, réfrigérateur <b>sauf pour la carte électronique</b></li>
-            <li>Appareil nécessitant un déplacement au domicile d'un particulier</li>
+            <ul>
+                <li>Téléphone portable</li>
+                <li>Ordinateur avec problème logiciel</li>
+                <li>Lave-linge, lave-vaisselle, réfrigérateur <b>sauf pour la carte électronique</b></li>
+                <li>Appareil nécessitant un déplacement au domicile d'un particulier</li>
+            </ul>
         </p>
     </div>
 </div>
