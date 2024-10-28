@@ -50,7 +50,7 @@ primary_color = "#121212"
 include_sections = ["blog"]
 show_image = true
 show_description = true
-show_tags = true
+show_tags = false
 show_categories = false
 
 
@@ -80,9 +80,9 @@ expire_days = 60
 content = "Ce site utilise des cookies. En continuant d'utiliser ce site, vous acceptez leur utilisation."
 button = "J'accepte"
 
-######################## sidebar widgets #########################
-[widgets]
-sidebar = ["categories", "tags"]
+# ######################## sidebar widgets #########################
+# [widgets]
+# sidebar = ["categories", "tags"]
 
 
 # google map
@@ -101,3 +101,5 @@ enable = false
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
 
+[sitemap]
+exclude = ["categories", "tags"]
