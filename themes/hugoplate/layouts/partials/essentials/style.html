@@ -68,6 +68,7 @@
 {{/* styles */}}
 <link
   href="{{ $styles.RelPermalink }}"
+  crossorigin="anonymous"
   integrity="{{ $styles.Data.Integrity }}"
   rel="stylesheet" />
 
@@ -77,6 +78,7 @@
   async
   rel="stylesheet"
   href="{{ $stylesLazy.RelPermalink }}"
+  crossorigin="anonymous"
   integrity="{{ $stylesLazy.Data.Integrity }}"
   media="print"
   onload="this.media='all'; this.onload=null;" />
