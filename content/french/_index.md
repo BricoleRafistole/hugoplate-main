@@ -7,7 +7,7 @@ type: ""
 layout: "_index"
 ---
 
-{{< slider dir="images/gallery_accueil" class="max-w-[700px] ml-0" height="1500" width="1500" text-align="center" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< slider dir="images/gallery_accueil" class="max-w-[700px] ml-0" height="1500px" width="1500px" text-align="center" webp="true" command="Fit" option="" zoomable="true" >}}
 
 <hr>
 
