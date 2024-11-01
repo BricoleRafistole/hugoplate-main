@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "https://bricole-rafistole.fr/"
+#baseURL = "https://bricole-rafistole.fr/"
 # Title of your website (required).
 title = "Bricole & Rafistole"
 # Your theme name
@@ -18,6 +18,8 @@ disableLanguages = [
 ] # example: ["fr"] for disable french language. see https://gohugo.io/content-management/multilingual/
 hasCJKLanguage = false #  If hasCJKLanguage true, auto-detect Chinese/Japanese/Korean Languages in the content. see: https://gohugo.io/getting-started/configuration/#hascjklanguage
 
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"] # you will get a console error message without this
 
 ########################### Services #############################
 [services]
