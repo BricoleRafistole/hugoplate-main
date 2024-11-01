@@ -7,7 +7,7 @@ type: ""
 layout: "_index"
 ---
 
-{{< slider dir="images/gallery_accueil" class="max-w-[700px] ml-0" height="1500" width="1500" text-align="center" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< slider dir="images/gallery_accueil" class="max-w-[700px] ml-0" height="394" width="700" text-align="center" webp="true" command="Fit" option="" zoomable="true" >}}
 
 <hr>
 
@@ -17,7 +17,7 @@ layout: "_index"
 <div class="container_picto_accueil">
     <a href="activite/hifi_son">
         <figure>
-            <image src="picto/picto_hifi_son.svg" alt="Pictogramme pour l'activité Hifi & Son" class="pictos">
+            <image src="picto/picto_hifi_son.svg" alt="Pictogramme pour l'activité Hifi & Son" width="200" height="200" class="pictos">
             <figcaption>
                 <p class="legende">Hifi & Son</p>
             </figcaption>
@@ -25,7 +25,7 @@ layout: "_index"
     </a>
     <a href="activite/electromenager">
         <figure>
-            <image src="picto/picto_electromenager.svg" alt="Pictogramme pour l'activité Électroménager" class="pictos">
+            <image src="picto/picto_electromenager.svg" alt="Pictogramme pour l'activité Électroménager" width="200" height="200" class="pictos">
             <figcaption>
                 <p class="legende">Électroménager</p>
             </figcaption>
@@ -33,7 +33,7 @@ layout: "_index"
     </a>
     <a href="activite/carte_electronique">
         <figure>
-            <image src="picto/picto_carte_electronique.svg" alt="Pictogramme pour l'activité Carte Électronique" class="pictos">
+            <image src="picto/picto_carte_electronique.svg" alt="Pictogramme pour l'activité Carte Électronique" width="200" height="200" class="pictos">
             <figcaption>
                 <p class="legende">Carte Électronique</p>
             </figcaption>
@@ -41,7 +41,7 @@ layout: "_index"
     </a>
     <a href="activite/outillage">
         <figure>
-            <image src="picto/picto_outillage.svg" alt="Pictogramme pour l'activité Outillage" class="pictos">
+            <image src="picto/picto_outillage.svg" alt="Pictogramme pour l'activité Outillage" width="200" height="200" class="pictos">
             <figcaption>
                 <p class="legende">Outillage</p>
             </figcaption>
@@ -49,7 +49,7 @@ layout: "_index"
     </a>
     <a href="activite/objet_divers">
         <figure>
-            <image src="picto/picto_objet_divers.svg" alt="Pictogramme pour l'activité Objet divers" class="pictos">
+            <image src="picto/picto_objet_divers.svg" alt="Pictogramme pour l'activité Objet divers" width="200" height="200" class="pictos">
             <figcaption>
                 <p class="legende">Objet divers</p>
             </figcaption>
@@ -134,7 +134,7 @@ layout: "_index"
 
 <div class="en-ligne">
     <a href="https://www.artisanat.fr/annuaire-repar-acteurs">
-        <image src="logo_labels/Repar-acteurs_logo_vertical_baseline_vert-bleu.png" alt="Logo du label Repar'acteur" class="logo_certif" >
+        <image src="logo_labels/Repar-acteurs_logo_vertical_baseline_vert-bleu.png" alt="Logo du label Repar'acteur"  width="350" height="215" class="logo_certif" >
     </a>
     <!-- <a >
         <image src="" alt="" class="logo_certif">
