@@ -15,7 +15,7 @@ layout: "single"
     </a>
     <a href="../hifi_son"  class="secondaire">
         <figure>
-            <image src="../../picto/picto_hifi_son.svg" alt="Pictogramme pour l'activité Hifi & Son" class="pictos">
+            <image src="../../picto/picto_hifi_son.svg" alt="Pictogramme pour l'activité Hifi & Son" width="200" height="200" class="pictos">
             <figcaption>
                 <p class="legende">Hifi & Son</p>
             </figcaption>
@@ -23,7 +23,7 @@ layout: "single"
     </a>
     <a href="../electromenager" class="">
         <figure>
-            <image src="../../picto/picto_electromenager.svg" alt="Pictogramme pour l'activité Électroménager" class="pictos">
+            <image src="../../picto/picto_electromenager.svg" alt="Pictogramme pour l'activité Électroménager" width="200" height="200" class="pictos">
             <figcaption>
                 <p class="legende principale secondaire">Électroménager</p>
             </figcaption>
@@ -31,7 +31,7 @@ layout: "single"
     </a>
     <a href="../carte_electronique" class="secondaire">
         <figure>
-            <image src="../../picto/picto_carte_electronique.svg" alt="Pictogramme pour l'activité Carte Électronique" class="pictos">
+            <image src="../../picto/picto_carte_electronique.svg" alt="Pictogramme pour l'activité Carte Électronique" width="200" height="200" class="pictos">
             <figcaption>
                 <p class="legende">Carte Électronique</p>
             </figcaption>
@@ -39,7 +39,7 @@ layout: "single"
     </a>
     <a href="../outillage" class="secondaire">
         <figure>
-            <image src="../../picto/picto_outillage.svg" alt="Pictogramme pour l'activité Outillage" class="pictos">
+            <image src="../../picto/picto_outillage.svg" alt="Pictogramme pour l'activité Outillage" width="200" height="200" class="pictos">
             <figcaption>
                 <p class="legende">Outillage</p>
             </figcaption>
@@ -47,7 +47,7 @@ layout: "single"
     </a>
     <a href="../objet_divers" class="secondaire">
         <figure>
-            <image src="../../picto/picto_objet_divers.svg" alt="Pictogramme pour l'activité Objet divers" class="pictos">
+            <image src="../../picto/picto_objet_divers.svg" alt="Pictogramme pour l'activité Objet divers" width="200" height="200" class="pictos">
             <figcaption>
                 <p class="legende">Objet Divers</p>
             </figcaption>

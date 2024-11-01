@@ -11,7 +11,7 @@
   <section class="section-sm container">
     <div class="en-ligne row">
         <div class="lg:col-6 trait_vertical">
-          <h4 class="text-left"><b>BRICOLE & RAFISTOLE</b> <br>Valentin SYLLA</h4>
+          <div class="text-left h4"><b>BRICOLE & RAFISTOLE</b> <br>Valentin SYLLA</div>
           <br>
           <a class="align_picto" href="tel:+33677957767">
             <image src="/picto/mini_picto_telephone.svg" alt="" class="mini_picto"></image>
@@ -36,8 +36,7 @@
         <div class="padding_trait_vertical">
           {{/*  ajouter  data-netlify-recaptcha="true" dans la ligne suivante si je veux remettre le recaptcha  */}}
           <form name="contact" method="POST" action="/contact_valide/" data-netlify="true" netlify-honeypot="bot-field">
-            <h4 class="text-left">Formulaire de contact</h4>
-            <br>
+            <div class="text-left h4 mb-6">Formulaire de contact</div>
             <div class="mb-6">
               <p class="hidden">
                <label>Ne pas remplir ce champ si vous êtes humain : (ignorez-le) <input name="bot-field">

@@ -10,12 +10,12 @@ layout: "single"
 
 <br>
 
-### Cookies
+## Cookies
 
 <!-- Les cookies de www.bricole-rafistole.fr ont une finalité strictement fonctionnelle et sont ainsi exemptés de consentement, conformément à l’article 82 de la loi Informatique et Libertés. Aucune statistique n’est mise en œuvre, il n’y a donc aucun suivi global de la navigation ni de recoupement des données. Aucune donnée informatique ou personnelle n’est collectée. -->
 Le site www.bricole-rafistole.fr n'utilise pas de cookies. Il est donc exempté de consentement, conformément à l’article 82 de la loi Informatique et Libertés. Aucune statistique n’est mise en œuvre, il n’y a donc aucun suivi global de la navigation ni de recoupement des données. Aucune donnée informatique ou personnelle n’est collectée.
 
-### Formulaire de contact
+## Formulaire de contact
 
 Les informations du formulaire sont recueillies via un retour de mail de l’hébergeur du site internet à destination de SYLLA Valentin, gestionnaire de l’entreprise individuelle Bricole & Rafistole. La base légale du traitement est le consentement.
 Les données marquées par un astérisque dans le questionnaire doivent obligatoirement être fournies. Dans le cas contraire, la demande pourrait ne pas être traitée.

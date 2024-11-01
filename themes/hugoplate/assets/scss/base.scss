@@ -32,7 +32,7 @@ h3,
 
 h4,
 .h4 {
-  @apply text-h4 font-medium;
+  @apply text-h4 font-medium font-secondary text-dark dark:text-darkmode-dark mb-0;
 }
 
 h5,
