@@ -7,7 +7,7 @@ type: ""
 layout: "_index"
 ---
 
-{{< slider dir="images/gallery_accueil" class="max-w-[700px] ml-0" width="700" height="394" text-align="center" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< slider dir="images/gallery_accueil" class="max-w-[700px] ml-0" height="394" width="700" text-align="center" webp="true" command="Fit" option="" zoomable="true" >}}
 
 <hr>
 
@@ -134,7 +134,7 @@ layout: "_index"
 
 <div class="en-ligne">
     <a href="https://www.artisanat.fr/annuaire-repar-acteurs">
-        <image src="logo_labels/Repar-acteurs_logo_vertical_baseline_vert-bleu.png" alt="Logo du label Repar'acteur"  width="350" height="272"class="logo_certif" >
+        <image src="logo_labels/Repar-acteurs_logo_vertical_baseline_vert-bleu.png" alt="Logo du label Repar'acteur"  width="350" height="215" class="logo_certif" >
     </a>
     <!-- <a >
         <image src="" alt="" class="logo_certif">
