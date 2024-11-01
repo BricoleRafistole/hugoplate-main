@@ -70,7 +70,7 @@ module.exports = {
         base: font_base + "px",
         h1: h1 + "rem",
         "h1-sm": h1 * 0.8 + "rem",
-        h2: h2 + "rem",
+        h2: h2 + "rem"- 16,
         "h2-sm": h2 * 0.8 + "rem",
         h3: h3 + "rem",
         "h3-sm": h3 * 0.8 + "rem",
