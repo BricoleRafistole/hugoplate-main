@@ -66,7 +66,7 @@ layout: "_index"
 <br>
 <div class="en-ligne">
     <div class="lg:col-6 text-left marges_tarif_methodo">
-        <h3 class="text-center">Méthodologie</h3>
+        <h3 class="h3 text-center">Méthodologie</h3>
         <p class="presentation">
             <ul>
                 <li>Premier échange par <a href="/contact">téléphone ou formulaire de contact</a></li>
@@ -76,7 +76,7 @@ layout: "_index"
         </p>
     </div>
     <div class="lg:col-6 text-left marges_tarif_methodo">
-        <h3 class="text-center">Tarifs</h3>
+        <h3 class="h3 text-center">Tarifs</h3>
         <p class="presentation">
             <ul>
                 <li>30€ : diagnostic pour appareil standard</li>
