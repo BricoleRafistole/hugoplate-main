@@ -3,7 +3,6 @@
 //pour definir les pictogrammes ainsi que leur survol
 .pictos {
     width: 200px;
-    height : 200px;
     border-radius: round(16px);
 @apply hover:bg-white hover:invert dark:invert dark:hover:invert-0;
 }
@@ -15,7 +14,6 @@
 @media (max-width: 316px){
   .pictos{
     width: 160px;
-    height : 160px;
   }
 }
 
@@ -61,7 +59,6 @@
 //pour définir les logos des cartifications
 .logo_certif {
     width  : 350px;
-    height: 215px; 
     padding-bottom: 20px;
 }
 
@@ -363,9 +360,4 @@
     padding-left: 32px;
     padding-right: 32px;
 }
-}
-
-.images_slider{
-  width: 700px;
-  height: 394px;
 }
