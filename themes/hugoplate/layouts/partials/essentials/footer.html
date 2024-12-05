@@ -9,9 +9,9 @@
           {{ partial "logo" }}
         </a>
       </div>
-      <div class="lg:col-3 mb-8 lg:mb-0">
+      <div class="lg:col-3 lg:mb-0">
         <ul>
-          {{ range site.Menus.footer | first 5 }}
+          {{ range site.Menus.footer | first 4 }}
             <li class="m-0.5 hover:underline">
               <a
                 {{ if findRE `^http` .URL }}
@@ -31,7 +31,7 @@
         </ul>
       </div>
       <div class="lg:col-3 mb-8 lg:mb-0">
-        <ul style="margin-top:-33px">
+        <ul style="">
           {{ range site.Menus.footer | last 4 }}
             <li class="m-0.5 hover:underline">
               <a
