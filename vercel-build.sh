@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # default versions
-NODE_VERSION='18.16.1';
+NODE_VERSION='22';
 GO_VERSION='1.20.5';
 HUGO_VERSION='0.121.2';
 

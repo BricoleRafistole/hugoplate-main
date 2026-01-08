@@ -1,5 +1,5 @@
 # Update the arg in docker-compose.yml or devcontainer.json to switch arg versions
-ARG NODE_VERSION=18
+ARG NODE_VERSION=22
 
 # main image
 FROM mcr.microsoft.com/devcontainers/javascript-node:${NODE_VERSION}
