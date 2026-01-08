@@ -5,6 +5,7 @@ command = "yarn project-setup; yarn build --baseURL=$DEPLOY_PRIME_URL"
 [context.deploy-preview.environment]
 HUGO_VERSION = "0.121.2"
 GO_VERSION = "1.20.5"
+NODE_VERSION = "22"
 
 [context.production]
 publish = "public"
