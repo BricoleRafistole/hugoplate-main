@@ -64,6 +64,7 @@ Liste non-exhaustive :
 - Équipement de la maison (radiateur, volet roulant)
 - Matériel de sport (chariot de golf, appareil de fitness)
 - Machine à coudre
+- Robot (piscine, aspirateur, tondeuse)
 - Appareil spécifique à une activité
 
 
