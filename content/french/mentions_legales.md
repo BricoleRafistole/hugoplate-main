@@ -57,11 +57,11 @@ https://www.artisan-en-ligne.com/ au lien suivant https://www.artisan-en-ligne.c
 ## Crédits
 
 Le site a été réalisé par SYLLA Valentin.<br>
-Les photographies présentes sur le site ont été réalisées par SYLLA Valentin et ne sont pas libres de droits.<br>
+Les photographies présentes sur le site ont été réalisées par SYLLA Valentin et ne sont pas libres de droits. Il en possède l'exclusivité des droits d'auteur.<br>
 
 
-Le design et les illustrations du site ont été réalisés par Sophie GAUDILLAT et ne sont pas libres de droits.<br>
-Vous pouvez retrouver un apperçu de son travail en suivant ce lien : https://sophiegaudillat.myportfolio.com/
+Le design et les illustrations du site ont été réalisés par Sophie GAUDILLAT. Elle en possède l'exclusivité des droits d'auteur.<br>
+Vous pouvez retrouver un apperçu de son travail en suivant ce lien : https://sophie-gaudillat.fr/
 
 <br>
 <br>
