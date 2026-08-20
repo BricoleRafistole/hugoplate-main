@@ -18,7 +18,7 @@ Adresse du siège social : 109 chemin de l’enclos, 38320 BRIÉ-ET-ANGONNES<br>
 Téléphone : +33 6 77 95 77 67
 
 
-## Hébergeur
+<h2 style="margin-top: 42px;">Hébergeur</h2>
 
 Netlify<br>
 Adresse du siège social : 44 Montgomery St STE 300, San Francisco, CA 94104, États-Unis<br>
@@ -27,14 +27,14 @@ Site internet : https://www.netlify.com<br>
 Contact : support@netlify.com
 
 
-## Propriété intellectuelle
+<h2 style="margin-top: 42px;">Propriété intellectuelle</h2>
 
 Sous réserve des droits de ses partenaires, le contenu du site est la propriété exclusive de l’Éditeur et est protégé par les lois françaises et internationales relatives à la propriété intellectuelle. Ce droit de propriété inclut, le cas échéant, les bases de données présentes sur le site qui sont protégées au titre du droit sui generis des producteurs de bases de données.
 
 Les éléments du site, pris dans leur ensemble ou individuellement, ne peuvent faire l’objet d’aucune utilisation, transformation, traduction, adaptation, reproduction, exploitation, totale ou partielle, non expressément autorisée par l’Éditeur, sous peine de poursuites. Cela signifie notamment que les utilisateurs du site ne peuvent télécharger ou copier-coller ces contenus à défaut d’autorisation expresse par la loi ou par l’Éditeur.
 
 
-## Liens hypertextes
+<h2 style="margin-top: 42px;">Liens hypertextes</h2>
 
 Le site est susceptible de diriger l’utilisateur via des liens hypertextes vers d’autres sites internet du même Éditeur ou de tiers. Il appartient à l’utilisateur de consulter les mentions légales de ces sites et de respecter leurs éventuelles conditions d’utilisation.
 
@@ -43,7 +43,7 @@ L’Éditeur ne pourra en aucun cas être tenu pour responsable des informations
 Si une personne dirige ses utilisateurs vers le présent site internet, l’Éditeur se réserve la possibilité de demander la suppression du lien hypertexte pointant vers ce site s’il estime que ce lien n’est pas conforme à ses droits et intérêts légitimes.
 
 
-## Annuaires externes
+<h2 style="margin-top: 42px;">Annuaires externes</h2>
 
 Voici la liste des annuaires externes sur lesquels Bricole & Rafistole est représenté :
 
@@ -54,7 +54,7 @@ https://www.pagesjaunes.fr/ au lien suivant https://www.pagesjaunes.fr/pros/6153
 https://www.artisan-en-ligne.com/ au lien suivant https://www.artisan-en-ligne.com/artisan-bricole-amp-rafistole-773412
 
 
-## Crédits
+<h2 style="margin-top: 42px;">Crédits</h2>
 
 Le site a été réalisé par SYLLA Valentin.<br>
 Les photographies présentes sur le site ont été réalisées par SYLLA Valentin et ne sont pas libres de droits. Il en possède l'exclusivité des droits d'auteur.<br>

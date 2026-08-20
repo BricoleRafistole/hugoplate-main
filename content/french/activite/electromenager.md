@@ -61,14 +61,13 @@ layout: "single"
 </div>
 
 - Électroménager de cuisine (robot, micro-onde, four, table de cuisson, hotte aspirante)
-- Équipement du foyer (radiateur, moteur de volet roulant)
+- Équipement du foyer (radiateur, moteur de volet roulant, ventilateur de plafond)
 - Machine à café
 - Multimédia (lecteur DVD, télévision, écran, ordinateur - sauf problème logiciel)
 - Entretien de la maison (aspirateur, nettoyeur vapeur)
 - Machine à coudre
 
-
-<div class="notice info mt-10 mb-10">
+<div class="notice info mt-12 mb-10">
   <div class="notice-head">
     <svg
         width="20"
@@ -88,5 +87,5 @@ layout: "single"
   <div class="notice-body"><p>Prise en charge uniquement des cartes électroniques concernant les appareils suivants : réfrigérateur, congélateur, lave-linge, lave-vaisselle.</p></div>
 </div>
 
-{{< slider dir="images/gallery_electromenager" class="max-w-[700px] ml-0 marge_slider mt-10" height="1500" width="1500" text-align="center" webp="true" command="Fit" option="" zoomable="false" >}}
+{{< slider dir="images/gallery_electromenager" class="max-w-[700px] ml-0 marge_slider mt-16" height="1500" width="1500" text-align="center" webp="true" command="Fit" option="" zoomable="false" >}}
 

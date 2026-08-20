@@ -20,13 +20,13 @@ Ces CGV pouvant faire l’objet de modifications ultérieures, la version applic
 
 Les coordonnées du siège social du Prestataire sont les suivantes : BRICOLE & RAFISTOLE, 109 chemin de l’Enclos 38320 BRIE-ET-ANGONNES.
 
-## ARTICLE 2 – OBJET / ENTRÉE EN VIGUEUR / DURÉE
+<h2 style="margin-top: 42px;">ARTICLE 2 – OBJET / ENTRÉE EN VIGUEUR / DURÉE</h2>
 
 Les présentes conditions générales ont pour objet de définir les conditions et modalités de réparation de n’importe quel objet/appareil/carte-électronique/outil (« L’Appareil ») apporté en réparation par Le Client.
 
 Les présentes conditions générales entrent en vigueur lorsque Le Client aura apposé sa signature sur la fiche de prise en charge, et restent en vigueur jusqu’à extinction des droits et obligations à la charge de l’une ou l’autre des parties.
 
-## ARTICLE 3 – COMMANDES ET CONFIRMATION DES SERVICES DE RÉPARATION
+<h2 style="margin-top: 42px;">ARTICLE 3 – COMMANDES ET CONFIRMATION DES SERVICES DE RÉPARATION</h2>
 
 ### 3.1. Contrôles techniques de L’Appareil
 
@@ -46,7 +46,7 @@ Une fois le diagnostic réalisé, Le Prestataire informera Le Client par télép
 
 Le Client peut demander un devis écrit envoyé par mail, ou accepte dès à présent de donner son consentement par téléphone, SMS ou par mail qui vaut acceptation des travaux de réparation. 
 
-## ARTICLE 4 – RÉPARATION DU MATÉRIEL ET DÉLAIS
+<h2 style="margin-top: 42px;">ARTICLE 4 – RÉPARATION DU MATÉRIEL ET DÉLAIS</h2>
 
 ### 4.1. Réparation
 
@@ -72,13 +72,13 @@ Pour des biens contenant un stockage sur mémoire (vive, flash ou dure) il est v
 
 Le Prestataire se réserve le droit de refuser la prise en charge d’appareils qu’il ne serait pas en mesure de réparer ou dans un état trop dégradé.
 
-## ARTICLE 5 – RÉCUPÉRATION DU MATÉRIEL DU CLIENT
+<h2 style="margin-top: 42px;">ARTICLE 5 – RÉCUPÉRATION DU MATÉRIEL DU CLIENT</h2>
 
 Une fois L’Appareil réparé, Le Client en sera informé et il devra venir le récupérer à l’atelier.
 
 Le Client devra procéder au paiement complet des prestations.
 
-## ARTICLE 6 – TARIFS
+<h2 style="margin-top: 42px;">ARTICLE 6 – TARIFS</h2>
 
 Le prix de la prestation de réparation est en Euros HT (TVA non applicable art. 293B du CGI).
 
@@ -86,7 +86,7 @@ Le prix standard des forfaits de prise en charge est de : 30€ par objet, 45€
 
 Une facture est établie par Le Prestataire et remise au Client lors de la fourniture des services commandés.
 
-## ARTICLE 7 – CONDITIONS DE PAIEMENT
+<h2 style="margin-top: 42px;">ARTICLE 7 – CONDITIONS DE PAIEMENT</h2>
 
 ### 7.1. Moyens de payement
 
@@ -120,7 +120,7 @@ En cas de retard de paiement (total ou partiel) 30 jours après la facturation d
 
 Le taux de l'intérêt légal retenu est celui en vigueur au jour de la facturation. Cette pénalité est calculée sur le montant HT de la somme restant due, et court à compter de la date d'échéance du prix sans qu'aucune mise en demeure préalable ne soit nécessaire. En sus des indemnités de retard, toute somme, y compris l’acompte, non payée à sa date d’exigibilité produira de plein droit le paiement d’une indemnité forfaitaire de 40 euros due au titre des frais de recouvrement.
 
-## ARTICLE 8 – CONDITIONS DE REMBOURSEMENT DES PRESTATIONS ET DE L’APPAREIL
+<h2 style="margin-top: 42px;">ARTICLE 8 – CONDITIONS DE REMBOURSEMENT DES PRESTATIONS ET DE L’APPAREIL</h2>
 
 ### 8.1. Hypothèses de remboursement
 
@@ -134,7 +134,7 @@ Le montant du remboursement dépendra de la qualité esthétique et fonctionnell
 
 Le Prestataire conservera L’Appareil du Client contre remise du remboursement.
 
-## ARTICLE 9 – ASSURANCE RESPONSABILITÉ PROFESSIONNELLE OBLIGATOIRE
+<h2 style="margin-top: 42px;">ARTICLE 9 – ASSURANCE RESPONSABILITÉ PROFESSIONNELLE OBLIGATOIRE</h2>
 
 Le Prestataire certifie avoir souscrit une assurance multirisque professionnelle comprenant une responsabilité civile sur le territoire Français auprès de l’organisme suivant : 
 
@@ -146,7 +146,7 @@ Le Prestataire certifie avoir souscrit une assurance multirisque professionnelle
     Siège social Chauray - 79036 NIORT Cedex 09
 </p>
 
-## ARTICLE 10 – OBLIGATIONS ET RESPONSABILITÉS DES PARTIES
+<h2 style="margin-top: 42px;">ARTICLE 10 – OBLIGATIONS ET RESPONSABILITÉS DES PARTIES
 
 ### 10.1. Obligations et responsabilité du Prestataire
 
@@ -172,7 +172,7 @@ Le Client accepte de recevoir toutes informations concernant le service, la fact
 
 Le Client reconnaît qu’en apposant sa signature, il reconnaît avoir pris connaissance du contrat et il accepte sans réserve les présentes conditions générales. 
 
-## ARTICLE 11 – GARANTIE
+<h2 style="margin-top: 42px;">ARTICLE 11 – GARANTIE</h2>
 
 Le Prestataire garantit les réparations effectuées par ses soins pendant une période de 3 mois, à compter de la date de restitution de L’Appareil, sauf fait du Client ou d’un tiers.
 
@@ -198,13 +198,13 @@ Pour faire valoir sa garantie, Le Client doit conserver la preuve de réparation
 
 La garantie Du Prestataire est limitée selon son choix à la réparation du problème concerné ou au remboursement des services de réparation (hors prestation de diagnostic) effectivement payés par Le Client. 
 
-## ARTICLE 12 – DROIT DE RÉTRACTATION
+<h2 style="margin-top: 42px;">ARTICLE 12 – DROIT DE RÉTRACTATION</h2>
 
 Le Client ne dispose pas d’un droit de rétractation pour les prestations de services conclues à l’atelier.
 
 Si Le Client souhaite récupérer son appareil, après l’avoir confié au Prestataire, alors que celui-ci n’a pas encore effectué les réparations demandées, le montant du diagnostic et des pièces détachées achetées sera malgré tout facturé.
 
-## ARTICLE 13 – FORCE MAJEURE
+<h2 style="margin-top: 42px;">ARTICLE 13 – FORCE MAJEURE</h2>
 
 Les Parties ne pourront être tenues pour responsables si la non-exécution ou le retard dans l’exécution de l’une quelconque de leurs obligations, telles que décrites dans les présentes découle d’un cas de force majeure, au sens de l’article 1218 du Code civil, c’est à dire un événement échappant au contrôle du débiteur, qui ne pouvait être raisonnablement prévu lors de la conclusion du contrat et dont les effets ne peuvent être évités par des mesures appropriées.
 
@@ -219,29 +219,29 @@ Par conséquent, dès la disparition de la cause de la suspension de leurs oblig
 
 Si l’empêchement est définitif le contrat est résolu de plein droit.
 
-## ARTICLE 14 – CONVENTION DE PREUVE
+<h2 style="margin-top: 42px;">ARTICLE 14 – CONVENTION DE PREUVE</h2>
 
 Le Client reconnaît et accepte que les informations contenues dans les systèmes informatiques du Prestataire ont la même force probante que des documents papiers, s’agissant de la passation de la commande par Le Client et l’acceptation des présentes conditions générales.
 
 L’archivage des présentes conditions générales, des commandes et des factures est effectué sur un support fiable et durable pouvant être produit à titre de preuve.
 
-## ARTICLE 15 – NULLITÉ D’UNE CLAUSE DU CONTRAT
+<h2 style="margin-top: 42px;">ARTICLE 15 – NULLITÉ D’UNE CLAUSE DU CONTRAT</h2>
 
 Si l’une des dispositions du présent Contrat était annulée, cette nullité n’entraînerait pas la nullité des autres dispositions du Contrat qui demeureront en vigueur entre les Parties.
 
-## ARTICLE 16 – INDÉPENDANCE DES PARTIES
+<h2 style="margin-top: 42px;">ARTICLE 16 – INDÉPENDANCE DES PARTIES</h2>
 
 Aucune des parties ne peut prendre d’engagement au nom et/ou pour le compte de l’autre Partie. Par ailleurs, chacune des Parties demeure seule responsable de ses allégations, engagements, prestations et personnels.
 
-## ARTICLE 17 – NON-RENONCIATION
+<h2 style="margin-top: 42px;">ARTICLE 17 – NON-RENONCIATION</h2>
 
 Le fait pour l’une des Parties de ne pas se prévaloir d’un défaut d’exécution de l’une des obligations incombant à l’autre partie et visées aux présentes, ne saurait être interprété pour l’avenir comme une renonciation à l’obligation en cause.
 
-## ARTICLE 18 – PRIMAUTÉ
+<h2 style="margin-top: 42px;">ARTICLE 18 – PRIMAUTÉ</h2>
 
 Les présentes Conditions Générales constituent l’intégralité de l’accord entre les parties, et prévalent sur tout autre document ou contrat quel qu’il soit, ou sur tout accord entre les parties non prévu aux présentes. À titre exceptionnel, un accord par voie d’avenant pourra compléter les présentes Conditions Générales si cet avenant est écrit et signé par les Parties.
 
-## ARTICLE 19 – DROIT APPLICABLE – LANGUE
+<h2 style="margin-top: 42px;">ARTICLE 19 – DROIT APPLICABLE – LANGUE</h2>
 
 Les présentes Conditions Générales de Vente et les opérations qui en découlent entre Le Prestataire et Le Client sont régies par et soumises au droit français.
 
@@ -249,7 +249,7 @@ Les présentes Conditions Générales de Vente sont rédigées en langue frança
 
 Dans les limites autorisées par la loi française, en cas de litige, compétence expresse est attribuée à la juridiction du tribunal de commerce de Grenoble, nonobstant pluralité de défendeurs ou appel en garantie, même pour les procédures d’urgence ou les procédures conservatoires en référé ou par requête.
 
-## ARTICLE 20 – RÈGLEMENT DES LITIGES
+<h2 style="margin-top: 42px;">ARTICLE 20 – RÈGLEMENT DES LITIGES</h2>
 
 En cas de litige entre Le Client et Le Prestataire, ceux-ci s’efforceront de le résoudre à l’amiable (Le Client adressera une réclamation écrite auprès Du Prestataire).
 
@@ -262,7 +262,7 @@ Pour Un Client particulier, à défaut d’accord amiable ou en l’absence de r
     Alteritae 5 rue Salvaing 12000 Rodez
 </p>
 
-## ARTICLE 21 – INFORMATION PRÉCONTRACTUELLE – ACCEPTATION DU CLIENT
+<h2 style="margin-top: 42px;">ARTICLE 21 – INFORMATION PRÉCONTRACTUELLE – ACCEPTATION DU CLIENT</h2>
 
 Le Client reconnaît avoir eu communication, préalablement à la passation de sa commande et à la conclusion du contrat, d’une manière claire et compréhensible, des présentes Conditions Générales de Vente et de toutes les informations listées à l’article L.221-5 du Code de la consommation et notamment les informations suivantes :
 

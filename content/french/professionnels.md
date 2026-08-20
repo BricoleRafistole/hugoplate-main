@@ -15,20 +15,20 @@ J’interviens pour les clients professionnels sur diverses installations : appa
 
 Je mets aussi mes compétences au service de certains professionnels (électriciens, garagistes, plombiers,...) afin de les épauler sur des problèmes électroniques spécifiques.
 
-## Adaptable selon vos besoins
+<h2 style="margin-top: 42px;">Adaptable selon vos besoins</h2>
 
 N’hésitez pas à me contacter afin d’échanger sur vos contraintes : 
 <ul>
     <li>Intervention rapide</li>
+    <li>Matériel qui n'est plus supporté par le fabricant</li>
     <li>Déplacement sur site (appareil non déplaçable)</li>
     <li>Equipement spécifique</li>
-    <li>Matériel qui n'est plus supporté</li>
 
  </ul>    
 
-## Témoignages
+<h2 style="margin-top: 42px;">Témoignages</h2>
 
-De nombreux professionnels de la région me font confiance. J’ai déjà pu intervenir pour des laboratoires, industries, hôtels, restaurants, magasins, salles de musique, installations agricoles... Voici quelques témoignages :
+De nombreux professionnels de la région me font confiance. J’ai déjà pu intervenir pour des laboratoires, industries, hôtels, restaurants, magasins, salles de musique, installations agricoles... Voici quelques avis :
 
 <br>
 

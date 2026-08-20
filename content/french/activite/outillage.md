@@ -64,8 +64,7 @@ layout: "single"
 - Chargeurs divers
 - Outillage filaire ou stationnaire (nettoyeur haute pression, machine-outil,...)
 
-
-<div class="notice info mt-10 mb-10">
+<div class="notice info mt-12 mb-10">
   <div class="notice-head">
     <svg
         width="20"
@@ -85,4 +84,4 @@ layout: "single"
   <div class="notice-body"><p>Pour des raisons de sécurité, je n'effectue aucune réparation sur les batteries.</p></div>
 </div>
 
-{{< slider dir="images/gallery_outillage" class="max-w-[700px] ml-0 marge_slider mt-10" height="1500" width="1500" text-align="center" webp="true" command="Fit" option="" zoomable="false" >}}
+{{< slider dir="images/gallery_outillage" class="max-w-[700px] ml-0 marge_slider margin-top: mt-16" height="1500" width="1500" text-align="center" webp="true" command="Fit" option="" zoomable="false" >}}
