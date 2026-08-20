@@ -1,6 +1,6 @@
 ---
 title: "Outillage"
-meta_title: "Bricole & Rafistole : réparer un outil"
+meta_title: "Bricole & Rafistole - Réparer un outil"
 meta_description: "Entreprise du bassin grenoblois spécialisée dans la réparation d'outillage."
 draft: false
 type: "_default"

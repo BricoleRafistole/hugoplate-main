@@ -1,6 +1,6 @@
 ---
 title: "Carte électronique"
-meta_title: "Bricole & Rafistole : réparer un carte électronique"
+meta_title: "Bricole & Rafistole - Réparer une carte électronique"
 meta_description: "Entreprise du bassin grenoblois spécialisée dans la réparation de carte électronique."
 draft: false
 type: "_default"

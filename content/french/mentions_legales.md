@@ -1,6 +1,6 @@
 ---
 title: "Mentions légales"
-meta_title: "Bricole & Rafistole : mentions légales"
+meta_title: "Bricole & Rafistole - Mentions légales"
 meta_description: "Voici les mentions légales de l'entreprise du bassin grenoblois spécialisée dans la réparation de petit électroménager, hifi, cartes électroniques, outillage et objet divers."
 draft: false
 type: "_default"

@@ -1,11 +1,13 @@
 ---
 title: "Accueil"
-meta_title: "Bricole & Rafistole : réparation autour de Grenoble"
+meta_title: "Bricole & Rafistole - Réparation autour de Grenoble"
 meta_description: "Entreprise du bassin grenoblois spécialisée dans la réparation de petit électroménager, hifi, cartes électroniques, outillage et objet divers."
 draft: false
 type: ""
 layout: "_index"
 ---
+
+<br>
 
 {{< slider dir="images/gallery_accueil" class="max-w-[700px] ml-0" height="394" width="700" text-align="center" webp="true" command="Fit" option="" zoomable="true" >}}
 

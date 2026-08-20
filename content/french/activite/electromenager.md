@@ -1,6 +1,6 @@
 ---
 title: "Électroménager"
-meta_title: "Bricole & Rafistole : réparer un petit électroménager"
+meta_title: "Bricole & Rafistole - Réparer un petit électroménager"
 meta_description: "Entreprise du bassin grenoblois spécialisée dans la réparation de petits appareils électroménager."
 draft: false
 type: "_default"

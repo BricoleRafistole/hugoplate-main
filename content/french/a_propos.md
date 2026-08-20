@@ -1,8 +1,7 @@
 ---
 title: "À Propos"
-meta_title: "Bricole & Rafistole : présentation de Valentin SYLLA"
+meta_title: "Bricole & Rafistole - Présentation de Valentin SYLLA"
 meta_description: "Créateur de l'entreprise Iséroise spécialisée dans la réparation de petit électroménager, hifi, cartes électroniques, outillage et objet divers."
-image: "/images/avatar.png"
 draft: false
 type: "_default"
 layout: "single"

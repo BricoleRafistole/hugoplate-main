@@ -1,6 +1,6 @@
 ---
 title: "Politique de confidentialité"
-meta_title: "Bricole & Rafistole : politique de confidentialité"
+meta_title: "Bricole & Rafistole - Politique de confidentialité"
 meta_description: "Voici la politique de confidentialité de l'entreprise du bassin grenoblois spécialisée dans la réparation de petit électroménager, hifi, cartes électroniques, outillage et objet divers."
 draft: false
 type: "_default"

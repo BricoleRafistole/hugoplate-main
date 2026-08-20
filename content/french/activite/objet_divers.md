@@ -1,6 +1,6 @@
 ---
 title: "Objet Divers"
-meta_title: "Bricole & Rafistole : réparer un appareil spécifique"
+meta_title: "Bricole & Rafistole - Réparer un appareil spécifique"
 meta_description: "Entreprise du bassin grenoblois spécialisée dans la réparation d'objets divers du quotidien, de la maison ou spécifique à une activité."
 draft: false
 type: "_default"

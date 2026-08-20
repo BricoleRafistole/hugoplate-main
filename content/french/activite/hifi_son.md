@@ -1,6 +1,6 @@
 ---
 title: "Hifi & son"
-meta_title: "Bricole & Rafistole : réparer un appareil Hi-Fi"
+meta_title: "Bricole & Rafistole - Réparer un appareil Hi-Fi"
 meta_description: "Entreprise du bassin grenoblois spécialisée dans la réparation de matériel Hi-Fi et spécifique pour le son."
 draft: false
 type: "_default"
